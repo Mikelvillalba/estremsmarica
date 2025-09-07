@@ -209,3 +209,15 @@
 [22:44:28] [User Authenticator #5/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
 [22:44:28] [Server thread/INFO]: estrems joined the game
 [22:44:28] [Server thread/INFO]: estrems[/127.248.184.190:56799] logged in with entity id 19389 at ([world]219.23927376215252, 96.0, 374.32689979653253)
+[22:56:40] [Server thread/INFO]: estrems lost connection: Disconnected
+[22:56:40] [Server thread/INFO]: estrems left the game
+[22:56:41] [Server thread/INFO]: Villi lost connection: Disconnected
+[22:56:41] [Server thread/INFO]: Villi left the game
+[22:56:41] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[22:56:41] [Server thread/INFO]: Pikachu1572 left the game
+[22:56:43] [User Authenticator #6/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[22:56:43] [Server thread/INFO]: Villi joined the game
+[22:56:43] [Server thread/INFO]: Villi[/127.240.193.194:44159] logged in with entity id 21896 at ([world]225.6262802574996, 85.0, 383.78762250848695)
+[22:56:44] [User Authenticator #6/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[22:56:45] [Server thread/INFO]: estrems joined the game
+[22:56:45] [Server thread/INFO]: estrems[/127.248.184.190:35777] logged in with entity id 21901 at ([world]217.1827485345835, 89.0, 386.69999998807907)
