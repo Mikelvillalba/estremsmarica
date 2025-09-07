@@ -194,3 +194,18 @@
 [22:31:24] [Async Chat Thread - #3/INFO]: [Not Secure] <Pikachu1572> 430 600
 [22:32:10] [Server thread/INFO]: Pikachu1572 fell from a high place
 [22:32:54] [Server thread/INFO]: rotceh9889 has made the advancement [Suit Up]
+[22:44:10] [Server thread/INFO]: estrems lost connection: Disconnected
+[22:44:10] [Server thread/INFO]: estrems left the game
+[22:44:12] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[22:44:12] [Server thread/INFO]: Pikachu1572 left the game
+[22:44:15] [Server thread/INFO]: Villi lost connection: Disconnected
+[22:44:15] [Server thread/INFO]: Villi left the game
+[22:44:20] [User Authenticator #5/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[22:44:21] [Server thread/INFO]: Villi joined the game
+[22:44:21] [Server thread/INFO]: Villi[/127.240.193.194:40209] logged in with entity id 19358 at ([world]228.40719002259033, 94.9375, 349.91786738947144)
+[22:44:26] [User Authenticator #5/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[22:44:26] [Server thread/INFO]: Pikachu1572 joined the game
+[22:44:26] [Server thread/INFO]: Pikachu1572[/127.142.165.218:52167] logged in with entity id 19379 at ([world]263.69999998807907, 102.0, 382.6043503225882)
+[22:44:28] [User Authenticator #5/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[22:44:28] [Server thread/INFO]: estrems joined the game
+[22:44:28] [Server thread/INFO]: estrems[/127.248.184.190:56799] logged in with entity id 19389 at ([world]219.23927376215252, 96.0, 374.32689979653253)
