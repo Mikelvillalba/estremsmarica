@@ -220,3 +220,8 @@
 [21:14:32] [Server thread/WARN]: Pikachu1572 moved too quickly! -31.362110769089952,-21.002217083318044,-7.248677641553229
 [21:24:34] [Server thread/INFO]: estrems lost connection: Disconnected
 [21:24:34] [Server thread/INFO]: estrems left the game
+[21:31:24] [Server thread/INFO]: Villager Villager['Villager'/17451, uuid='d53619bd-0407-4a15-8a64-f6b0e1dc3eea', l='ServerLevel[world]', x=234.62, y=102.42, z=418.30, cpos=[14, 26], tl=111917, v=true] died, message: 'Villager was slain by Zombie'
+[21:32:40] [Server thread/INFO]: Villi issued server command: /give Villi minecraft:spruce_wood
+[21:32:40] [Server thread/INFO]: [Villi: Gave 1 [Spruce Wood] to Villi]
+[21:32:48] [Server thread/INFO]: Villi issued server command: /give Villi minecraft:spruce_wood 300
+[21:32:48] [Server thread/INFO]: [Villi: Gave 300 [Spruce Wood] to Villi]
