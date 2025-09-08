@@ -248,3 +248,12 @@
 [16:40:45] [User Authenticator #9/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
 [16:40:45] [Server thread/INFO]: Villi joined the game
 [16:40:45] [Server thread/INFO]: Villi[/127.240.193.194:52819] logged in with entity id 55070 at ([world_the_end]-1123.368458652875, 57.0, 363.2333766483069)
+[16:46:58] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[16:46:58] [Server thread/INFO]: Pikachu1572 left the game
+[16:48:24] [Server thread/INFO]: Villi issued server command: /gamerule keepInventory true
+[16:48:24] [Server thread/INFO]: [Villi: Gamerule keepInventory is now set to: true]
+[16:51:19] [User Authenticator #10/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[16:51:19] [Server thread/INFO]: Pikachu1572 joined the game
+[16:51:19] [Server thread/INFO]: Pikachu1572[/127.142.165.218:49523] logged in with entity id 58829 at ([world_the_end]-1309.6550431534872, -107.43656335896746, -690.2485581426835)
+[16:51:21] [Server thread/INFO]: Pikachu1572 fell out of the world
+[16:52:46] [Server thread/INFO]: Ruben17 has made the advancement [The City at the End of the Game]
