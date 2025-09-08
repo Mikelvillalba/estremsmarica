@@ -194,3 +194,15 @@
 [20:46:43] [Server thread/INFO]: rotceh9889 left the game
 [20:50:27] [Server thread/INFO]: estrems has made the advancement [Hot Stuff]
 [20:54:16] [Server thread/INFO]: Villager Villager['Villager'/27966, uuid='57ad3c35-ebb4-46fe-ace2-1fc9acb2db95', l='ServerLevel[world]', x=213.51, y=89.00, z=381.15, cpos=[13, 23], tl=13254, v=true] died, message: 'Villager was slain by Villi'
+[20:57:09] [Server thread/INFO]: Villi lost connection: Disconnected
+[20:57:09] [Server thread/INFO]: Villi left the game
+[20:58:56] [User Authenticator #10/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[20:58:56] [Server thread/INFO]: Villi joined the game
+[20:58:56] [Server thread/INFO]: Villi[/127.240.193.194:58707] logged in with entity id 31332 at ([world]229.50951970442665, 95.0, 370.11560997171927)
+[20:59:06] [Server thread/INFO]: Villi lost connection: Disconnected
+[20:59:06] [Server thread/INFO]: Villi left the game
+[21:00:53] [User Authenticator #11/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[21:00:54] [Server thread/INFO]: Villi joined the game
+[21:00:54] [Server thread/INFO]: Villi[/127.240.193.194:54427] logged in with entity id 31717 at ([world]229.50951970442665, 95.0, 370.11560997171927)
+[21:03:15] [Server thread/INFO]: Villi lost connection: Disconnected
+[21:03:15] [Server thread/INFO]: Villi left the game
