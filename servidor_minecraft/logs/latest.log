@@ -218,3 +218,5 @@
 [21:14:32] [Server thread/INFO]: Locating element minecraft:swamp took 4512 ms
 [21:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4500ms or 90 ticks behind
 [21:14:32] [Server thread/WARN]: Pikachu1572 moved too quickly! -31.362110769089952,-21.002217083318044,-7.248677641553229
+[21:24:34] [Server thread/INFO]: estrems lost connection: Disconnected
+[21:24:34] [Server thread/INFO]: estrems left the game
