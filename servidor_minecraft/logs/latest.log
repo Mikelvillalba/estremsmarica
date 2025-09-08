@@ -64,3 +64,45 @@
 [11:26:09] [Server thread/INFO]: [Villi: Created new objective [Vida]]
 [11:26:29] [Server thread/INFO]: Villi issued server command: /scoreboard objectives setdisplay list Vida
 [11:26:29] [Server thread/INFO]: [Villi: Set display slot list to show objective Vida]
+[11:33:46] [Server thread/INFO]: Pikachu1572 fell from a high place
+[11:35:33] [Server thread/INFO]: Villi lost connection: Disconnected
+[11:35:33] [Server thread/INFO]: Villi left the game
+[11:35:44] [User Authenticator #3/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[11:35:44] [Server thread/INFO]: Villi joined the game
+[11:35:44] [Server thread/INFO]: Villi[/127.240.193.194:48215] logged in with entity id 2823 at ([world]207.30000001192093, 98.0, 379.30000001192093)
+[11:39:05] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[11:39:05] [Server thread/INFO]: Pikachu1572 left the game
+[11:39:05] [Server thread/INFO]: Villi lost connection: Disconnected
+[11:39:05] [Server thread/INFO]: Villi left the game
+[11:39:05] [Server thread/INFO]: Stopping server
+[11:39:05] [Server thread/INFO]: Saving players
+[11:39:05] [Server thread/INFO]: Saving worlds
+[11:39:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:39:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[11:39:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[11:39:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Saved 111 block chunks, 214 entity chunks, 0 poi chunks in world 'world' in 0.43s
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[11:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[11:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[11:39:06] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[11:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:39:06] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[11:39:06] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[11:39:06] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[11:39:06] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
