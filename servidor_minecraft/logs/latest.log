@@ -304,3 +304,22 @@
 [17:33:01] [Server thread/WARN]: rotceh9889 moved too quickly! -6.1689088344573975,4.034990310668945,7.021051406860352
 [17:33:28] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
 [17:33:29] [Server thread/INFO]: Pikachu1572 left the game
+[17:35:05] [Server thread/INFO]: Ruben17 has made the advancement [Ice Bucket Challenge]
+[17:36:09] [Server thread/INFO]: Villi lost connection: Disconnected
+[17:36:09] [Server thread/INFO]: Villi left the game
+[17:36:48] [User Authenticator #11/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[17:36:48] [Server thread/INFO]: Villi joined the game
+[17:36:48] [Server thread/INFO]: Villi[/127.240.193.194:56081] logged in with entity id 85776 at ([world]218.7482405208425, 89.0, 381.80854702407964)
+[17:37:38] [Server thread/INFO]: Villi issued server command: /gamerule keepInventory false
+[17:37:38] [Server thread/INFO]: [Villi: Gamerule keepInventory is now set to: false]
+[17:39:48] [Server thread/INFO]: Villi lost connection: Disconnected
+[17:39:48] [Server thread/INFO]: Villi left the game
+[17:42:52] [User Authenticator #12/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[17:42:53] [Server thread/INFO]: Villi joined the game
+[17:42:53] [Server thread/INFO]: Villi[/127.240.193.194:37763] logged in with entity id 88249 at ([world]217.21001788251175, 89.0, 382.8722793994184)
+[17:42:59] [Server thread/INFO]: Villi lost connection: Disconnected
+[17:42:59] [Server thread/INFO]: Villi left the game
+[17:43:43] [User Authenticator #12/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[17:43:43] [Server thread/INFO]: Villi joined the game
+[17:43:43] [Server thread/INFO]: Villi[/127.240.193.194:48675] logged in with entity id 88457 at ([world]216.5714135142546, 89.0, 382.8133202544252)
+[17:44:06] [Server thread/INFO]: estrems has made the advancement [Enchanter]
