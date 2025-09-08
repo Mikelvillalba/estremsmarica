@@ -121,3 +121,15 @@
 [15:00:10] [Server thread/INFO]: Villi has made the advancement [We Need to Go Deeper]
 [15:00:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Villi> 24 84 51
 [15:01:20] [Server thread/WARN]: Pikachu1572 moved wrongly!
+[15:03:25] [User Authenticator #5/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[15:03:25] [Server thread/INFO]: rotceh9889 lost connection: You logged in from another location
+[15:03:25] [Server thread/INFO]: rotceh9889 left the game
+[15:03:25] [Server thread/INFO]: rotceh9889 joined the game
+[15:03:25] [Server thread/INFO]: rotceh9889[/127.242.85.59:54313] logged in with entity id 34458 at ([world_nether]52.24890442311908, 83.0, 98.30000001192093)
+[15:03:26] [User Authenticator #5/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[15:03:26] [Server thread/INFO]: Ruben17 lost connection: You logged in from another location
+[15:03:26] [Server thread/INFO]: Ruben17 left the game
+[15:03:26] [Server thread/INFO]: Ruben17 joined the game
+[15:03:26] [Server thread/INFO]: Ruben17[/127.242.85.59:59259] logged in with entity id 34467 at ([world_nether]53.526211399184824, 85.30948902485032, 99.5698579370875)
+[15:04:50] [Server thread/INFO]: rotceh9889 has made the advancement [Hot Stuff]
+[15:09:24] [Server thread/INFO]: Villager Villager['Villager'/33637, uuid='50406d15-f7a9-453a-a421-3620a1045cd6', l='ServerLevel[world]', x=226.30, y=84.00, z=340.05, cpos=[14, 21], tl=10077, v=true] died, message: 'Villager suffocated in a wall'
