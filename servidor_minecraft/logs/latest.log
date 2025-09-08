@@ -111,3 +111,25 @@
 [18:55:43] [Server thread/INFO]: Villager Villager['Villager'/527, uuid='275f8193-9c41-472b-8ce5-43ceea50272e', l='ServerLevel[world]', x=190.50, y=80.56, z=323.79, cpos=[11, 20], tl=11169, v=true] died, message: 'Villager was slain by Zombie'
 [18:55:51] [Server thread/INFO]: Villager Villager['Fisherman'/43, uuid='7b72aad1-63b2-48c4-ac8e-0e2f9c31689c', l='ServerLevel[world]', x=190.40, y=80.56, z=323.38, cpos=[11, 20], tl=14714, v=true] died, message: 'Fisherman was slain by Zombie Villager'
 [18:55:57] [Server thread/INFO]: Villager Villager['Fisherman'/39, uuid='7742e0a5-8bb1-41bb-9492-b3e1fb57f5a2', l='ServerLevel[world]', x=191.37, y=80.00, z=325.70, cpos=[11, 20], tl=14837, v=true] died, message: 'Fisherman was slain by Zombie Villager'
+[19:08:48] [Server thread/INFO]: Villi lost connection: Disconnected
+[19:08:49] [Server thread/INFO]: Villi left the game
+[19:09:05] [User Authenticator #2/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:09:05] [Server thread/INFO]: Villi joined the game
+[19:09:05] [Server thread/INFO]: Villi[/127.240.193.194:37603] logged in with entity id 5924 at ([world]206.84497968253106, 99.0, 279.5923813770151)
+[19:09:59] [Server thread/INFO]: Villager Villager['Villager'/37, uuid='5a9f4b22-c719-424e-9fbe-cd55fb7d6264', l='ServerLevel[world]', x=227.30, y=85.00, z=339.07, cpos=[14, 21], tl=31670, v=true] died, message: 'Villager was slain by Zombie'
+[19:10:07] [Server thread/INFO]: Villager Villager['Villager'/35, uuid='b17b11f3-a5a9-4e3d-b983-4d7e1198f303', l='ServerLevel[world]', x=224.22, y=85.00, z=339.66, cpos=[14, 21], tl=31830, v=true] died, message: 'Villager was slain by Zombie'
+[19:10:14] [Server thread/INFO]: Villager Villager['Villager'/40, uuid='7fa6f53f-0dde-4309-883a-a521d6a40fe9', l='ServerLevel[world]', x=224.70, y=85.00, z=339.70, cpos=[14, 21], tl=31962, v=true] died, message: 'Villager was slain by Zombie'
+[19:10:21] [Server thread/INFO]: Villager Villager['Villager'/38, uuid='7b16292d-127a-408b-8382-9d869dd8df10', l='ServerLevel[world]', x=227.53, y=85.00, z=338.39, cpos=[14, 21], tl=32102, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:10:57] [Server thread/INFO]: Villager Villager['Villager'/3378, uuid='d864219c-bd8c-471a-94b5-75df5247134a', l='ServerLevel[world]', x=227.72, y=85.30, z=341.30, cpos=[14, 21], tl=13902, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:11:08] [Server thread/INFO]: Villager Villager['Villager'/41, uuid='6b7a665f-c441-430f-9c02-c944b286d0f6', l='ServerLevel[world]', x=227.30, y=84.94, z=342.70, cpos=[14, 21], tl=33050, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:11:13] [Server thread/INFO]: Villager Villager['Villager'/2131, uuid='e2914242-77bd-4124-9edb-49d59737ca07', l='ServerLevel[world]', x=227.18, y=85.12, z=341.79, cpos=[14, 21], tl=20655, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:11:13] [Server thread/INFO]: Villi lost connection: Disconnected
+[19:11:13] [Server thread/INFO]: Villi left the game
+[19:11:16] [Server thread/INFO]: Villager Villager['Villager'/5238, uuid='e1076c0d-ed0b-4920-9abe-5f6365c7277d', l='ServerLevel[world]', x=227.15, y=85.18, z=341.47, cpos=[14, 21], tl=5311, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:11:18] [Server thread/INFO]: Villager Villager['Villager'/34, uuid='e1b47ec2-24ef-4e64-ab5e-cc0c4ed5cb34', l='ServerLevel[world]', x=227.70, y=85.05, z=341.01, cpos=[14, 21], tl=33241, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:11:24] [Server thread/INFO]: Villager Villager['Villager'/44, uuid='fe6fb4c8-ef51-4e49-a50e-c5f1a1f35320', l='ServerLevel[world]', x=227.30, y=85.47, z=342.68, cpos=[14, 21], tl=33358, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:11:24] [Server thread/INFO]: Villager Villager['Villager'/36, uuid='5cdf5db6-a965-4417-b221-a89a9a2a28a8', l='ServerLevel[world]', x=227.30, y=84.94, z=341.44, cpos=[14, 21], tl=33363, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:11:26] [Server thread/INFO]: Villager Villager['Villager'/42, uuid='a2ac7744-4a40-43c4-878a-99605cfb961c', l='ServerLevel[world]', x=227.70, y=86.03, z=342.70, cpos=[14, 21], tl=33399, v=true] died, message: 'Villager was slain by Zombie Villager'
+[19:12:58] [User Authenticator #3/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:12:58] [Server thread/INFO]: Villi joined the game
+[19:12:58] [Server thread/INFO]: Villi[/127.240.193.194:45001] logged in with entity id 6771 at ([world]211.79388133435708, 100.0, 272.63072944874494)
