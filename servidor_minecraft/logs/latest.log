@@ -108,3 +108,6 @@
 [18:51:35] [User Authenticator #1/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
 [18:51:36] [Server thread/INFO]: rotceh9889 joined the game
 [18:51:36] [Server thread/INFO]: rotceh9889[/127.242.85.59:42579] logged in with entity id 1715 at ([world]219.03677012125993, 89.0, 380.95174541105456)
+[18:55:43] [Server thread/INFO]: Villager Villager['Villager'/527, uuid='275f8193-9c41-472b-8ce5-43ceea50272e', l='ServerLevel[world]', x=190.50, y=80.56, z=323.79, cpos=[11, 20], tl=11169, v=true] died, message: 'Villager was slain by Zombie'
+[18:55:51] [Server thread/INFO]: Villager Villager['Fisherman'/43, uuid='7b72aad1-63b2-48c4-ac8e-0e2f9c31689c', l='ServerLevel[world]', x=190.40, y=80.56, z=323.38, cpos=[11, 20], tl=14714, v=true] died, message: 'Fisherman was slain by Zombie Villager'
+[18:55:57] [Server thread/INFO]: Villager Villager['Fisherman'/39, uuid='7742e0a5-8bb1-41bb-9492-b3e1fb57f5a2', l='ServerLevel[world]', x=191.37, y=80.00, z=325.70, cpos=[11, 20], tl=14837, v=true] died, message: 'Fisherman was slain by Zombie Villager'
