@@ -174,3 +174,23 @@
 [16:09:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Villi> -260 91
 [16:10:54] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
 [16:10:54] [Server thread/INFO]: rotceh9889 left the game
+[16:13:16] [User Authenticator #6/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[16:13:16] [Server thread/INFO]: rotceh9889 joined the game
+[16:13:16] [Server thread/INFO]: rotceh9889[/127.242.85.59:37209] logged in with entity id 49836 at ([world_nether]27.69999998807907, 115.0, 20.638830322790678)
+[16:13:49] [Server thread/INFO]: Villi lost connection: Disconnected
+[16:13:49] [Server thread/INFO]: Villi left the game
+[16:13:50] [User Authenticator #6/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[16:13:51] [Server thread/INFO]: Villi joined the game
+[16:13:51] [Server thread/INFO]: Villi[/127.240.193.194:60297] logged in with entity id 49978 at ([world_nether]-8.190491750091187, 115.0, 91.45475644177134)
+[16:14:31] [Server thread/INFO]: Ruben17 lost connection: Disconnected
+[16:14:31] [Server thread/INFO]: Ruben17 left the game
+[16:14:40] [Server thread/INFO]: Villi lost connection: Disconnected
+[16:14:40] [Server thread/INFO]: Villi left the game
+[16:16:23] [User Authenticator #7/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[16:16:24] [Server thread/INFO]: Villi joined the game
+[16:16:24] [Server thread/INFO]: Villi[/127.240.193.194:48137] logged in with entity id 50488 at ([world_nether]-34.748924246080534, 115.0, 91.61249772501957)
+[16:16:42] [Server thread/INFO]: estrems has made the advancement [Hidden in the Depths]
+[16:16:52] [Server thread/INFO]: rotceh9889 has made the advancement [Hidden in the Depths]
+[16:17:14] [User Authenticator #7/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[16:17:14] [Server thread/INFO]: Ruben17 joined the game
+[16:17:14] [Server thread/INFO]: Ruben17[/127.242.85.59:52461] logged in with entity id 50691 at ([world_nether]-26.586263273735227, 115.0, 91.69999998807907)
