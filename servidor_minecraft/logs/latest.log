@@ -212,3 +212,39 @@
 [16:30:40] [Server thread/INFO]: rotceh9889 has made the advancement [The End?]
 [16:31:12] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
 [16:31:12] [Server thread/INFO]: rotceh9889 left the game
+[16:33:32] [User Authenticator #8/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[16:33:32] [Server thread/INFO]: rotceh9889 joined the game
+[16:33:32] [Server thread/INFO]: rotceh9889[/127.242.85.59:40047] logged in with entity id 54363 at ([world_the_end]101.09791760131742, 49.0, 1.1285266465462)
+[16:33:42] [Server thread/INFO]: estrems has made the advancement [Take Aim]
+[16:35:11] [Server thread/INFO]: Villi has made the advancement [Take Aim]
+[16:35:59] [Server thread/INFO]: estrems has made the advancement [Free the End]
+[16:36:36] [Server thread/INFO]: Pikachu1572 has reached the goal [The Next Generation]
+[16:36:49] [Server thread/INFO]: rotceh9889 has reached the goal [The Next Generation]
+[16:37:09] [Server thread/INFO]: Ruben17 has reached the goal [The Next Generation]
+[16:37:25] [Server thread/INFO]: Villi has reached the goal [The Next Generation]
+[16:38:26] [Server thread/INFO]: Villi has made the advancement [Remote Getaway]
+[16:38:29] [Server thread/INFO]: rotceh9889 has made the advancement [Remote Getaway]
+[16:38:39] [Server thread/INFO]: Pikachu1572 has made the advancement [Remote Getaway]
+[16:38:40] [Server thread/INFO]: estrems has made the advancement [Remote Getaway]
+[16:38:43] [Server thread/INFO]: Ruben17 has made the advancement [Remote Getaway]
+[16:38:54] [Async Chat Thread - #12/INFO]: [Not Secure] <Villi> -1123
+[16:38:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Villi> 363
+[16:38:59] [Async Chat Thread - #12/INFO]: [Not Secure] <Villi> end
+[16:39:00] [Async Chat Thread - #11/INFO]: [Not Secure] <Villi> salida
+[16:39:19] [Server thread/INFO]: Villi lost connection: Disconnected
+[16:39:19] [Server thread/INFO]: Villi left the game
+[16:39:48] [Server thread/INFO]: Pikachu1572 issued server command: /msg Pikachu1572 -1224 ~ -1208
+[16:39:49] [Server thread/INFO]: Ruben17 has made the advancement [Hidden in the Depths]
+[16:40:10] [User Authenticator #9/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[16:40:10] [Server thread/INFO]: Villi joined the game
+[16:40:10] [Server thread/INFO]: Villi[/127.240.193.194:35027] logged in with entity id 55025 at ([world_the_end]-1123.14681207526, 57.0, 363.7908596978759)
+[16:40:13] [Server thread/INFO]: Villi lost connection: Disconnected
+[16:40:14] [Server thread/INFO]: Villi left the game
+[16:40:30] [User Authenticator #9/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[16:40:30] [Server thread/INFO]: Villi joined the game
+[16:40:30] [Server thread/INFO]: Villi[/127.240.193.194:46167] logged in with entity id 55053 at ([world_the_end]-1123.368458652875, 57.0, 363.2333766483069)
+[16:40:32] [Server thread/INFO]: Villi lost connection: Disconnected
+[16:40:33] [Server thread/INFO]: Villi left the game
+[16:40:45] [User Authenticator #9/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[16:40:45] [Server thread/INFO]: Villi joined the game
+[16:40:45] [Server thread/INFO]: Villi[/127.240.193.194:52819] logged in with entity id 55070 at ([world_the_end]-1123.368458652875, 57.0, 363.2333766483069)
