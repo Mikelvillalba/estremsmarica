@@ -206,3 +206,15 @@
 [21:00:54] [Server thread/INFO]: Villi[/127.240.193.194:54427] logged in with entity id 31717 at ([world]229.50951970442665, 95.0, 370.11560997171927)
 [21:03:15] [Server thread/INFO]: Villi lost connection: Disconnected
 [21:03:15] [Server thread/INFO]: Villi left the game
+[21:05:11] [User Authenticator #12/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[21:05:12] [Server thread/INFO]: Villi joined the game
+[21:05:12] [Server thread/INFO]: Villi[/127.240.193.194:58391] logged in with entity id 32474 at ([world]215.67452155825896, 89.5625, 382.4582611281524)
+[21:08:10] [Server thread/INFO]: estrems has made the advancement [Bring Home the Beacon]
+[21:11:52] [Server thread/INFO]: Pikachu1572 fell from a high place
+[21:12:17] [User Authenticator #13/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[21:12:17] [Server thread/INFO]: rotceh9889 joined the game
+[21:12:17] [Server thread/INFO]: rotceh9889[/127.242.85.59:36195] logged in with entity id 33490 at ([world]212.55837638174236, 92.34489540236494, 373.2878664285486)
+[21:14:28] [Server thread/INFO]: Villi issued server command: /locate biome minecraft:swamp
+[21:14:32] [Server thread/INFO]: Locating element minecraft:swamp took 4512 ms
+[21:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4500ms or 90 ticks behind
+[21:14:32] [Server thread/WARN]: Pikachu1572 moved too quickly! -31.362110769089952,-21.002217083318044,-7.248677641553229
