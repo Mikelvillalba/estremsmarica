@@ -57,3 +57,10 @@
 [11:20:44] [Server thread/INFO]: Villi[/127.240.193.194:35683] logged in with entity id 936 at ([world]215.46737277219117, 89.0, 376.1629307348398)
 [11:22:43] [Server thread/INFO]: Villi lost connection: Disconnected
 [11:22:43] [Server thread/INFO]: Villi left the game
+[11:25:08] [User Authenticator #2/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[11:25:08] [Server thread/INFO]: Villi joined the game
+[11:25:08] [Server thread/INFO]: Villi[/127.240.193.194:33875] logged in with entity id 1644 at ([world]220.54746356425167, 89.0, 350.1300462931406)
+[11:26:09] [Server thread/INFO]: Villi issued server command: /scoreboard objectives add Vida health
+[11:26:09] [Server thread/INFO]: [Villi: Created new objective [Vida]]
+[11:26:29] [Server thread/INFO]: Villi issued server command: /scoreboard objectives setdisplay list Vida
+[11:26:29] [Server thread/INFO]: [Villi: Set display slot list to show objective Vida]
