@@ -324,3 +324,15 @@
 [18:01:30] [Server thread/INFO]: Pikachu1572 left the game
 [18:02:02] [Server thread/INFO]: Villager Villager['Librarian'/259878, uuid='9cbcb1f9-3f95-465f-ad17-142505080176', l='ServerLevel[world]', x=-2439.30, y=62.00, z=171.50, cpos=[-153, 10], tl=93586, v=true] died, message: 'Librarian was slain by Zombie'
 [18:05:55] [Server thread/INFO]: Ruben17 has reached the goal [Zombie Doctor]
+[18:09:19] [User Authenticator #21/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[18:09:19] [Server thread/INFO]: Pikachu1572 joined the game
+[18:09:19] [Server thread/INFO]: Pikachu1572[/127.142.165.218:34207] logged in with entity id 293785 at ([world_nether]-325.6019806979084, 28.896124298167315, 62.69999998807907)
+[18:09:21] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[18:09:21] [Server thread/INFO]: Pikachu1572 left the game
+[18:10:27] [User Authenticator #22/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[18:10:27] [Server thread/INFO]: Pikachu1572 joined the game
+[18:10:27] [Server thread/INFO]: Pikachu1572[/127.142.165.218:52119] logged in with entity id 295156 at ([world_nether]-325.6019806979084, 28.0, 62.69999998807907)
+[18:10:31] [Server thread/INFO]: Pikachu1572 burned to death
+[18:16:00] [Server thread/INFO]: Ruben17 has made the advancement [Local Brewery]
+[18:16:25] [Server thread/INFO]: Villager Villager['Librarian'/297068, uuid='a8c2cfae-cac1-400c-b610-cadc6bcbcf72', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=5569, v=true] died, message: 'Librarian was slain by Zombie'
+[18:17:40] [Server thread/INFO]: Villager Villager['Librarian'/297070, uuid='4a070366-f86c-4f06-b69a-71b94a19c042', l='ServerLevel[world]', x=-2439.30, y=62.00, z=169.50, cpos=[-153, 10], tl=7069, v=true] died, message: 'Librarian was slain by Zombie'
