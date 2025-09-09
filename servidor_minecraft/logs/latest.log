@@ -185,3 +185,24 @@ Reason: Banned by an operator.
 [19:56:30] [Async Chat Thread - #3/INFO]: [Not Secure] <Pikachu1572> NO
 [19:56:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Pikachu1572> NO TENGO
 [19:56:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Villi> vv
+[19:59:56] [Server thread/WARN]: Ruben17 was kicked for floating too long!
+[19:59:56] [Server thread/INFO]: Ruben17 lost connection: Flying is not enabled on this server
+[19:59:56] [Server thread/INFO]: Ruben17 left the game
+[20:00:10] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
+[20:00:10] [Server thread/INFO]: rotceh9889 left the game
+[20:00:10] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[20:00:10] [Server thread/INFO]: Pikachu1572 left the game
+[20:00:29] [User Authenticator #9/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[20:00:32] [Server thread/INFO]: Ruben17 joined the game
+[20:00:32] [Server thread/INFO]: Ruben17[/127.242.85.59:34831] logged in with entity id 80039 at ([world]-2460.5467483617363, 63.0, 135.298344653594)
+[20:00:35] [User Authenticator #9/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[20:00:40] [Server thread/INFO]: rotceh9889 joined the game
+[20:00:40] [Server thread/INFO]: rotceh9889[/127.242.85.59:52993] logged in with entity id 80346 at ([world]-2455.7114377229154, 63.0, 142.6767156138641)
+[20:01:22] [User Authenticator #9/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[20:01:22] [Server thread/INFO]: Pikachu1572 joined the game
+[20:01:22] [Server thread/INFO]: Pikachu1572[/127.142.165.218:50911] logged in with entity id 80504 at ([world_nether]-297.01227093540814, 236.0, 65.52399114680924)
+[20:03:04] [Server thread/INFO]: Villi lost connection: Disconnected
+[20:03:04] [Server thread/INFO]: Villi left the game
+[20:04:10] [Server thread/INFO]: Villager Villager['Villager'/80192, uuid='6efd710d-5e1c-4d22-b8a7-d321caacfce5', l='ServerLevel[world]', x=-2446.70, y=63.00, z=195.50, cpos=[-153, 12], tl=4333, v=true] died, message: 'Villager was slain by rotceh9889'
+[20:05:28] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
+[20:05:28] [Server thread/INFO]: rotceh9889 left the game
