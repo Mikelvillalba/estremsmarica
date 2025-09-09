@@ -261,3 +261,9 @@
 [15:20:29] [Server thread/INFO]: rotceh9889 has reached the goal [Zombie Doctor]
 [15:21:38] [Server thread/INFO]: Villager Villager['Librarian'/231027, uuid='70908920-f1f9-4bfc-ac93-190e45119aa2', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=1380, v=true] died, message: 'Librarian was slain by Zombie'
 [15:22:37] [Server thread/INFO]: Villager Villager['Librarian'/204772, uuid='dac5f477-5b5b-4e1f-90c4-c3b234662b42', l='ServerLevel[world]', x=-2439.30, y=62.00, z=171.50, cpos=[-153, 10], tl=75369, v=true] died, message: 'Librarian was slain by Zombie'
+[15:24:12] [Server thread/INFO]: Pikachu1572 was slain by Iron Golem
+[15:24:32] [Server thread/INFO]: Villager Villager['Librarian'/231145, uuid='f2fd3787-e52d-4b65-b663-d2829779207d', l='ServerLevel[world]', x=-2439.30, y=62.00, z=175.50, cpos=[-153, 10], tl=3862, v=true] died, message: 'Librarian was slain by Zombie'
+[15:30:27] [Server thread/INFO]: rotceh9889 has made the advancement [Local Brewery]
+[15:30:35] [Server thread/INFO]: Villager Villager['Librarian'/232119, uuid='790bedcd-a237-4de3-841b-19d2bf71e477', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=5482, v=true] died, message: 'Librarian was slain by Zombie'
+[15:32:14] [Async Chat Thread - #24/INFO]: [Not Secure] <rotceh9889> dame esmeraldas
+[15:32:43] [Server thread/INFO]: Villager Villager['Librarian'/208536, uuid='8303faff-9fe2-49af-8215-222beae96547', l='ServerLevel[world]', x=-2439.30, y=62.00, z=169.50, cpos=[-153, 10], tl=78538, v=true] died, message: 'Librarian was slain by Zombie'
