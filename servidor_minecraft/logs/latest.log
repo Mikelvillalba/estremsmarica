@@ -206,3 +206,26 @@
 [13:50:30] [Server thread/INFO]: Villi issued server command: /locate biome minecraft:dark_forest
 [13:50:31] [Server thread/INFO]: Locating element minecraft:dark_forest took 580 ms
 [13:51:08] [Async Chat Thread - #19/INFO]: [Not Secure] <Villi> -3800 1400
+[13:51:38] [Server thread/WARN]: Villi moved wrongly!
+[13:52:22] [Server thread/WARN]: rotceh9889 moved wrongly!
+[13:52:23] [User Authenticator #13/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[13:52:23] [Server thread/INFO]: estrems joined the game
+[13:52:23] [Server thread/INFO]: estrems[/127.248.184.190:40327] logged in with entity id 178127 at ([world_the_end]-2532.300000011921, 165.5, 2697.699999988079)
+[13:57:07] [Server thread/WARN]: estrems moved too quickly! -0.03284931182861328,-89.87591314315796,-6.2293461561203
+[13:58:55] [Server thread/WARN]: estrems moved too quickly! -0.8531665802001953,-86.9505386352539,-5.153199195861816
+[13:58:56] [Server thread/INFO]: estrems has completed the challenge [Great View From Up Here]
+[13:59:35] [Server thread/WARN]: estrems moved too quickly! -7.317718744277954,-1.571028709411621,-6.727909326553345
+[14:00:26] [Server thread/WARN]: estrems moved too quickly! -7.724102199077606,-26.202296257019043,3.1095876693725586
+[14:00:39] [Server thread/WARN]: estrems moved too quickly! -6.580353498458862,-12.118608951568604,5.206806182861328
+[14:02:20] [Async Chat Thread - #20/INFO]: [Not Secure] <Villi> -324
+[14:02:22] [Server thread/WARN]: estrems moved too quickly! -7.04479855298996,-53.950150817632675,-5.498877286911011
+[14:02:24] [Async Chat Thread - #20/INFO]: [Not Secure] <Villi> 77 36
+[14:02:51] [Server thread/INFO]: Villi lost connection: Disconnected
+[14:02:51] [Server thread/INFO]: Villi left the game
+[14:03:12] [User Authenticator #14/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[14:03:12] [Server thread/INFO]: Villi joined the game
+[14:03:12] [Server thread/INFO]: Villi[/127.240.193.194:39549] logged in with entity id 192255 at ([world_nether]-335.71903297691017, 55.0, 158.1863927332087)
+[14:04:37] [Server thread/WARN]: estrems moved too quickly! -6.919230699539185,-8.560525178909302,4.727439880371094
+[14:05:17] [Server thread/WARN]: estrems moved too quickly! 7.7854461669921875,-81.53660774230957,-2.5765647888183594
+[14:07:52] [Server thread/WARN]: estrems moved too quickly! -34.339037678010506,7.174617231254125,-5.444627458782559
+[14:08:26] [Server thread/WARN]: Villi moved wrongly!
