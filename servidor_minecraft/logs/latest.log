@@ -206,3 +206,11 @@ Reason: Banned by an operator.
 [20:04:10] [Server thread/INFO]: Villager Villager['Villager'/80192, uuid='6efd710d-5e1c-4d22-b8a7-d321caacfce5', l='ServerLevel[world]', x=-2446.70, y=63.00, z=195.50, cpos=[-153, 12], tl=4333, v=true] died, message: 'Villager was slain by rotceh9889'
 [20:05:28] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
 [20:05:28] [Server thread/INFO]: rotceh9889 left the game
+[20:12:25] [User Authenticator #10/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[20:12:25] [Server thread/INFO]: rotceh9889 joined the game
+[20:12:26] [Server thread/INFO]: rotceh9889[/127.242.85.59:40175] logged in with entity id 82812 at ([world_nether]-286.67919607081694, 233.0, 49.72830567990732)
+[20:12:47] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
+[20:12:47] [Server thread/INFO]: rotceh9889 left the game
+[20:14:03] [User Authenticator #11/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[20:14:03] [Server thread/INFO]: rotceh9889 joined the game
+[20:14:03] [Server thread/INFO]: rotceh9889[/127.242.85.59:44569] logged in with entity id 83185 at ([world_nether]-285.06682465252493, 233.0, 46.365581300899954)
