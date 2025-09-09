@@ -276,3 +276,5 @@
 [16:06:43] [Server thread/INFO]: Villager Villager['Librarian'/243268, uuid='9560ac25-a9ec-4f89-96b2-fb76a05ee100', l='ServerLevel[world]', x=-2439.30, y=62.00, z=165.50, cpos=[-153, 10], tl=7050, v=true] died, message: 'Librarian was slain by Zombie'
 [16:09:25] [Async Chat Thread - #29/INFO]: [Not Secure] <Pikachu1572> HECTOOOR
 [16:09:35] [Async Chat Thread - #29/INFO]: [Not Secure] <Pikachu1572> ESTAS ?
+[16:15:40] [Server thread/INFO]: Villager Villager['Villager'/243319, uuid='d21394b5-588b-46b8-91a1-13976be73e1e', l='ServerLevel[world]', x=-2439.70, y=62.59, z=159.50, cpos=[-153, 9], tl=17775, v=true] died, message: 'Villager was slain by Zombie'
+[16:17:38] [Server thread/INFO]: Villager Villager['Villager'/243277, uuid='02f0ff33-6343-46b8-a9a6-1b3dc7be4ad6', l='ServerLevel[world]', x=-2449.50, y=63.06, z=180.49, cpos=[-154, 11], tl=20138, v=true] died, message: 'Villager was slain by rotceh9889'
