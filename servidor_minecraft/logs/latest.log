@@ -193,3 +193,11 @@
 [13:01:09] [Server thread/INFO]: Villi issued server command: /skin set venom
 [13:01:51] [Server thread/INFO]: Pikachu1572 has made the advancement [Diamonds!]
 [13:16:06] [Server thread/INFO]: estrems fell from a high place
+[13:26:13] [User Authenticator #12/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[13:26:14] [Server thread/INFO]: estrems lost connection: You logged in from another location
+[13:26:14] [Server thread/INFO]: estrems left the game
+[13:26:14] [Server thread/INFO]: estrems joined the game
+[13:26:14] [Server thread/INFO]: estrems[/127.248.184.190:44629] logged in with entity id 160394 at ([world_the_end]22.401092648562727, 62.0, 9.754893726054867)
+[13:26:57] [Server thread/WARN]: estrems moved too quickly! -16.580136529078118,-2.339330512067093,14.18120126874743
+[13:27:07] [Server thread/INFO]: Villager Villager['Librarian'/144412, uuid='df277158-434b-4bbf-826f-168218e9e16f', l='ServerLevel[world]', x=224.30, y=89.00, z=386.70, cpos=[14, 24], tl=28968, v=true] died, message: 'Librarian was slain by Ruben17'
+[13:27:35] [Server thread/WARN]: estrems moved too quickly! 15.477898271405138,-6.528960607950808,46.06595417933522
