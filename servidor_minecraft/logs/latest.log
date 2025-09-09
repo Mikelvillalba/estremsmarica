@@ -114,3 +114,13 @@
 [19:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4637ms or 92 ticks behind
 [19:03:19] [Server thread/INFO]: Villager Villager['Villager'/20389, uuid='88f3db4c-8527-470e-afa5-858fd916d7ab', l='ServerLevel[world]', x=-2445.70, y=59.56, z=206.30, cpos=[-153, 12], tl=5557, v=true] died, message: 'Villager was slain by Villi'
 [19:03:22] [Server thread/INFO]: Villager Villager['Nitwit'/20387, uuid='14bdca24-3c8d-46e3-93de-6d965fbc9296', l='ServerLevel[world]', x=-2444.70, y=59.56, z=205.49, cpos=[-153, 12], tl=5628, v=true] died, message: 'Nitwit was slain by Villi'
+[19:06:38] [Server thread/INFO]: Ruben17 lost connection: Disconnected
+[19:06:39] [Server thread/INFO]: Ruben17 left the game
+[19:07:23] [User Authenticator #4/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[19:07:23] [Server thread/INFO]: Ruben17 joined the game
+[19:07:23] [Server thread/INFO]: Ruben17[/127.242.85.59:33709] logged in with entity id 30498 at ([world]-2455.3995364578905, 63.0, 166.38617096988318)
+[19:09:11] [Server thread/INFO]: Pikachu1572 was doomed to fall
+[19:12:20] [Server thread/INFO]: estrems lost connection: Disconnected
+[19:12:20] [Server thread/INFO]: estrems left the game
+[19:13:37] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[19:13:37] [Server thread/INFO]: Pikachu1572 left the game
