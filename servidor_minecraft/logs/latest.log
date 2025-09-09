@@ -158,3 +158,12 @@
 [11:56:06] [Server thread/INFO]: Ruben17 left the game
 [12:00:28] [Async Chat Thread - #8/INFO]: [Not Secure] <Pikachu1572> -2076 724
 [12:01:09] [Async Chat Thread - #8/INFO]: [Not Secure] <Pikachu1572> -259 90
+[12:09:39] [User Authenticator #8/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[12:09:40] [Server thread/INFO]: rotceh9889 joined the game
+[12:09:40] [Server thread/INFO]: rotceh9889[/127.242.85.59:44705] logged in with entity id 93186 at ([world_nether]21.14452636279527, 128.0, 52.39613472667167)
+[12:09:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Villi> -306 20
+[12:17:45] [User Authenticator #9/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[12:17:46] [Server thread/INFO]: Ruben17 joined the game
+[12:17:46] [Server thread/INFO]: Ruben17[/127.242.85.59:47959] logged in with entity id 103751 at ([world]214.54948162867737, 89.0, 380.04998151543117)
+[12:20:43] [Async Chat Thread - #12/INFO]: [Not Secure] <Villi> 2300 3200
+[12:21:14] [Server thread/INFO]: Villager Villager['Fletcher'/90478, uuid='aa4bfce2-073c-4888-901c-96c9d6b3a309', l='ServerLevel[world]', x=210.78, y=89.00, z=385.46, cpos=[13, 24], tl=19313, v=true] died, message: 'Fletcher went up in flames'
