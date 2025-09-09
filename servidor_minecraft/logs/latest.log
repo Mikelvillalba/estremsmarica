@@ -270,3 +270,5 @@
 [15:35:38] [Server thread/INFO]: Villager Villager['Librarian'/211601, uuid='65ba5591-65c5-4116-af64-01497d596296', l='ServerLevel[world]', x=-2439.30, y=62.00, z=167.50, cpos=[-153, 10], tl=76374, v=true] died, message: 'Librarian was slain by Zombie'
 [15:43:19] [Server thread/INFO]: Pikachu1572 issued server command: /MSG
 [15:43:40] [Server thread/INFO]: Pikachu1572 issued server command: /msg rotceh9889 QUEDATE TU CON LA MITAD Y O LA OTRA
+[15:49:55] [Server thread/INFO]: Villager Villager['Villager'/228203, uuid='dd99ba20-3111-4ac4-9529-b56427455cb8', l='ServerLevel[world]', x=-2449.50, y=63.06, z=180.49, cpos=[-154, 11], tl=49010, v=true] died, message: 'Villager was slain by Villi'
+[15:51:35] [Server thread/INFO]: Villager Villager['Librarian'/216106, uuid='eb6ca58a-f32b-459e-b56c-80054f031bf0', l='ServerLevel[world]', x=-2439.30, y=63.00, z=163.70, cpos=[-153, 10], tl=87101, v=true] died, message: 'Librarian was slain by Villi'
