@@ -167,3 +167,4 @@
 [12:17:46] [Server thread/INFO]: Ruben17[/127.242.85.59:47959] logged in with entity id 103751 at ([world]214.54948162867737, 89.0, 380.04998151543117)
 [12:20:43] [Async Chat Thread - #12/INFO]: [Not Secure] <Villi> 2300 3200
 [12:21:14] [Server thread/INFO]: Villager Villager['Fletcher'/90478, uuid='aa4bfce2-073c-4888-901c-96c9d6b3a309', l='ServerLevel[world]', x=210.78, y=89.00, z=385.46, cpos=[13, 24], tl=19313, v=true] died, message: 'Fletcher went up in flames'
+[12:33:29] [Server thread/WARN]: Villi moved wrongly!
