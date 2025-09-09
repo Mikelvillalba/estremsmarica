@@ -251,3 +251,13 @@
 [14:53:12] [Server thread/INFO]: Villager Villager['Villager'/193690, uuid='338c5d7c-e395-409c-a2ce-528f7f4a6073', l='ServerLevel[world]', x=-2459.35, y=63.19, z=184.81, cpos=[-154, 11], tl=57824, v=true] died, message: 'Villager was slain by Villi'
 [14:53:18] [Server thread/INFO]: Villager Villager['Villager'/193687, uuid='713728f3-43aa-4324-a569-c5d6510f6b7d', l='ServerLevel[world]', x=-2456.60, y=63.19, z=192.10, cpos=[-154, 12], tl=57951, v=true] died, message: 'Villager was slain by Villi'
 [14:55:10] [Server thread/WARN]: Villi moved wrongly!
+[15:05:24] [Async Chat Thread - #22/INFO]: [Not Secure] <rotceh9889> que eseso villi?
+[15:05:44] [Server thread/INFO]: Villager Villager['Villager'/225736, uuid='e8c5fa84-95aa-44df-a02b-470b41d8a02c', l='ServerLevel[world]', x=-2459.84, y=63.90, z=177.13, cpos=[-154, 11], tl=6380, v=true] died, message: 'Villager was slain by Villi'
+[15:10:49] [Server thread/INFO]: Pikachu1572 has made the advancement [Local Brewery]
+[15:11:24] [Server thread/INFO]: Villager Villager['Librarian'/193683, uuid='f27608e9-4e6d-4462-95cb-20e15c5220d9', l='ServerLevel[world]', x=-2439.70, y=62.00, z=175.50, cpos=[-153, 10], tl=79649, v=true] died, message: 'Librarian was slain by Zombie'
+[15:15:16] [Server thread/INFO]: Villager Villager['Librarian'/198849, uuid='3e2b39bb-2ca2-4d90-8530-43c79997e40a', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=77034, v=true] died, message: 'Librarian was slain by Zombie'
+[15:15:53] [Server thread/INFO]: Pikachu1572 has reached the goal [Zombie Doctor]
+[15:16:32] [Server thread/INFO]: Villager Villager['Librarian'/230095, uuid='3cb39d91-2d05-4ded-b437-8f84d19d6fe7', l='ServerLevel[world]', x=-2439.30, y=62.00, z=175.50, cpos=[-153, 10], tl=778, v=true] died, message: 'Librarian was slain by Zombie'
+[15:20:29] [Server thread/INFO]: rotceh9889 has reached the goal [Zombie Doctor]
+[15:21:38] [Server thread/INFO]: Villager Villager['Librarian'/231027, uuid='70908920-f1f9-4bfc-ac93-190e45119aa2', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=1380, v=true] died, message: 'Librarian was slain by Zombie'
+[15:22:37] [Server thread/INFO]: Villager Villager['Librarian'/204772, uuid='dac5f477-5b5b-4e1f-90c4-c3b234662b42', l='ServerLevel[world]', x=-2439.30, y=62.00, z=171.50, cpos=[-153, 10], tl=75369, v=true] died, message: 'Librarian was slain by Zombie'
