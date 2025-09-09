@@ -236,3 +236,16 @@
 [14:26:55] [Server thread/WARN]: Spruce Boat (vehicle of Pikachu1572) moved wrongly! 0.28780122438892164
 [14:26:55] [Server thread/WARN]: Spruce Boat (vehicle of Pikachu1572) moved wrongly! 0.28519016456308677
 [14:31:07] [Server thread/INFO]: Villager Villager['Villager'/193730, uuid='77dcfb5b-2a76-48d0-8083-7cff92827b5b', l='ServerLevel[world]', x=-2459.79, y=60.00, z=210.59, cpos=[-154, 13], tl=31315, v=true] died, message: 'Villager was shot by Villi'
+[14:43:22] [Server thread/INFO]: Villager Villager['Fisherman'/193625, uuid='79b48cc2-89ef-4070-87e3-8dfcb0c0685d', l='ServerLevel[world]', x=-2446.70, y=59.50, z=203.50, cpos=[-153, 12], tl=46058, v=true] died, message: 'Fisherman was slain by Villi'
+[14:44:32] [Server thread/INFO]: Villi lost connection: Disconnected
+[14:44:32] [Server thread/INFO]: Villi left the game
+[14:44:50] [User Authenticator #15/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[14:44:50] [Server thread/INFO]: Villi joined the game
+[14:44:50] [Server thread/INFO]: Villi[/127.240.193.194:33185] logged in with entity id 219065 at ([world]-2445.604411212773, 64.0, 204.40874034119793)
+[14:45:34] [Server thread/INFO]: Ruben17 lost connection: Disconnected
+[14:45:34] [Server thread/INFO]: Ruben17 left the game
+[14:47:12] [Server thread/INFO]: estrems lost connection: Disconnected
+[14:47:12] [Server thread/INFO]: estrems left the game
+[14:47:18] [Server thread/INFO]: Villager Villager['Librarian'/193650, uuid='79d7ac28-1c20-416c-a56a-72dab78a7fb4', l='ServerLevel[world]', x=-2482.52, y=64.00, z=162.30, cpos=[-156, 10], tl=50759, v=true] died, message: 'Librarian was slain by Pikachu1572'
+[14:53:10] [Server thread/INFO]: Villager Villager['Fisherman'/193689, uuid='e781d318-a35a-4374-9fd5-f6554d8a2a41', l='ServerLevel[world]', x=-2459.15, y=63.19, z=184.85, cpos=[-154, 11], tl=57780, v=true] died, message: 'Fisherman was slain by Villi'
+[14:53:12] [Server thread/INFO]: Villager Villager['Villager'/193690, uuid='338c5d7c-e395-409c-a2ce-528f7f4a6073', l='ServerLevel[world]', x=-2459.35, y=63.19, z=184.81, cpos=[-154, 11], tl=57824, v=true] died, message: 'Villager was slain by Villi'
