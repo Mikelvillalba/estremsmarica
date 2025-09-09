@@ -1,263 +1,87 @@
-[18:33:23] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[18:33:23] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[18:33:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:33:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[18:33:25] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[20:56:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[20:56:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[20:56:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:56:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[20:56:13] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - BetterSleep (1.0), SkinsRestorer (15.7.10)
-[18:33:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:33:38] [ServerMain/INFO]: Loaded 1407 recipes
-[18:33:38] [ServerMain/INFO]: Loaded 1520 advancements
-[18:33:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[18:33:39] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 773.2ms
-[18:33:39] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[18:33:39] [Server thread/INFO]: Loading properties
-[18:33:39] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[18:33:39] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:33:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:33:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:33:41] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[18:33:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[18:33:42] [Server thread/INFO]: Default game type: SURVIVAL
-[18:33:42] [Server thread/INFO]: Generating keypair
-[18:33:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:33:42] [Server thread/INFO]: Using epoll channel type
-[18:33:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:33:42] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[18:33:43] [Server thread/INFO]: [BetterSleep] Loading server plugin BetterSleep v1.0
-[18:33:43] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[18:33:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:33:43] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[18:33:44] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[18:33:45] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:33:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:33:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:33:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:33:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:33:45] [Server thread/INFO]: Preparing level "world"
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:33:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:33:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:33:47] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:47] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:48] [Server thread/INFO]: Preparing spawn area: 2%
-[18:33:48] [Server thread/INFO]: Preparing spawn area: 10%
-[18:33:48] [Server thread/INFO]: Time elapsed: 1724 ms
-[18:33:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:33:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:50] [Server thread/INFO]: Preparing spawn area: 24%
-[18:33:50] [Server thread/INFO]: Preparing spawn area: 24%
-[18:33:50] [Server thread/INFO]: Preparing spawn area: 24%
-[18:33:50] [Server thread/INFO]: Time elapsed: 1554 ms
-[18:33:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:33:50] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:50] [Server thread/INFO]: Time elapsed: 350 ms
-[18:33:50] [Server thread/INFO]: [BetterSleep] Enabling BetterSleep v1.0
-[18:33:51] [Server thread/INFO]: [spark] Starting background profiler...
-[18:33:51] [Server thread/INFO]: Done preparing level "world" (5.610s)
-[18:33:51] [Server thread/INFO]: Running delayed init tasks
-[18:33:51] [Server thread/INFO]: Done (29.365s)! For help, type "help"
-[18:34:06] [User Authenticator #0/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
-[18:34:06] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[18:34:07] [Server thread/INFO]: rotceh9889 joined the game
-[18:34:07] [Server thread/INFO]: rotceh9889[/127.242.85.59:40483] logged in with entity id 27 at ([world]-2457.854748243489, 63.0, 171.44929169722698)
-[18:34:11] [User Authenticator #0/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
-[18:34:12] [Server thread/INFO]: Pikachu1572 joined the game
-[18:34:12] [Server thread/INFO]: Pikachu1572[/127.142.165.218:51145] logged in with entity id 322 at ([world]-2458.818942692114, 63.0, 173.94591166449095)
-[18:34:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
-[18:34:14] [User Authenticator #0/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
-[18:34:15] [Server thread/INFO]: Villi joined the game
-[18:34:15] [Server thread/INFO]: Villi[/127.240.193.194:55701] logged in with entity id 395 at ([world_nether]-310.05656391427107, 111.0, 81.68894352830043)
-[18:34:23] [User Authenticator #0/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
-[18:34:23] [Server thread/INFO]: estrems joined the game
-[18:34:23] [Server thread/INFO]: estrems[/127.248.184.190:52973] logged in with entity id 692 at ([world]-2445.881599894359, 63.0, 173.45905060397612)
-[18:34:37] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 8bf26d90-dd8e-49d2-a7b0-e04d65c99361, mapped to EnderMan['Enderman'/624, uuid='8bf26d90-dd8e-49d2-a7b0-e04d65c99361', l='ServerLevel[world_nether]', x=-120.57, y=89.00, z=129.51, cpos=[-8, 8], tl=0, v=true], can't add EnderMan['Enderman'/734, uuid='8bf26d90-dd8e-49d2-a7b0-e04d65c99361', l='ServerLevel[world_nether]', x=-107.53, y=87.00, z=125.92, cpos=[-7, 7], tl=0, v=false]
-[18:34:37] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0ab18234-36c2-4403-b54d-f4a747730c5b, mapped to EnderMan['Enderman'/649, uuid='0ab18234-36c2-4403-b54d-f4a747730c5b', l='ServerLevel[world_nether]', x=-115.17, y=87.00, z=175.26, cpos=[-8, 10], tl=0, v=true], can't add EnderMan['Enderman'/737, uuid='0ab18234-36c2-4403-b54d-f4a747730c5b', l='ServerLevel[world_nether]', x=-111.30, y=89.00, z=175.30, cpos=[-7, 10], tl=0, v=false]
-[18:34:43] [User Authenticator #0/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
-[18:34:44] [Server thread/INFO]: Ruben17 joined the game
-[18:34:44] [Server thread/INFO]: Ruben17[/127.242.85.59:39447] logged in with entity id 840 at ([world_nether]-525.0379251285194, 101.0, 72.0485992503721)
-[18:41:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Villi> -300 77 23
-[18:43:12] [Server thread/INFO]: Villi lost connection: Disconnected
-[18:43:13] [Server thread/INFO]: Villi left the game
-[18:43:14] [User Authenticator #1/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
-[18:43:14] [Server thread/INFO]: Villi joined the game
-[18:43:14] [Server thread/INFO]: Villi[/127.240.193.194:56241] logged in with entity id 7224 at ([world_nether]-161.3213528481522, 32.0, 333.30000001192093)
-[18:47:35] [Server thread/INFO]: Villager Villager['Librarian'/4388, uuid='d9ac48db-4d41-498b-af1d-c2586c65fe2a', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=7817, v=true] died, message: 'Librarian was slain by Zombie'
-[18:47:52] [Server thread/INFO]: Villager Villager['Librarian'/4387, uuid='6ba27d81-9823-4b95-9a74-f32bc2fd241f', l='ServerLevel[world]', x=-2439.30, y=62.00, z=175.50, cpos=[-153, 10], tl=8167, v=true] died, message: 'Librarian was slain by Zombie'
-[18:49:16] [Server thread/INFO]: Villager Villager['Librarian'/4391, uuid='31f9327b-f04f-4e62-909a-15a5338d9719', l='ServerLevel[world]', x=-2439.30, y=62.00, z=167.50, cpos=[-153, 10], tl=9849, v=true] died, message: 'Librarian was slain by Zombie'
-[18:51:14] [Server thread/INFO]: Villi lost connection: Disconnected
-[18:51:14] [Server thread/INFO]: Villi left the game
-[18:51:15] [User Authenticator #2/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
-[18:51:16] [Server thread/INFO]: Villi joined the game
-[18:51:16] [Server thread/INFO]: Villi[/127.240.193.194:57549] logged in with entity id 12472 at ([world_nether]-218.69999998807907, 57.0, 248.4347305732975)
-[18:52:49] [Server thread/INFO]: Villager Villager['Librarian'/4392, uuid='2e007a39-64c6-4660-b22b-c3e3259e93a6', l='ServerLevel[world]', x=-2439.30, y=62.00, z=165.50, cpos=[-153, 10], tl=14095, v=true] died, message: 'Librarian was slain by Zombie'
-[18:53:52] [Server thread/INFO]: Villi lost connection: Disconnected
-[18:53:52] [Server thread/INFO]: Villi left the game
-[18:53:52] [User Authenticator #3/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
-[18:53:53] [Server thread/INFO]: Villi joined the game
-[18:53:53] [Server thread/INFO]: Villi[/127.240.193.194:49059] logged in with entity id 14157 at ([world_nether]-218.69999998807907, 57.0, 248.4347305732975)
-[18:54:11] [Server thread/INFO]: Villager Villager['Librarian'/4393, uuid='a9cc2e41-8ebe-411d-a6e1-b1effec3f57c', l='ServerLevel[world]', x=-2439.30, y=62.00, z=163.50, cpos=[-153, 10], tl=15741, v=true] died, message: 'Librarian was slain by Zombie'
-[18:54:44] [Server thread/INFO]: Villager Villager['Cleric'/4394, uuid='c06a28b8-680c-48d0-9a5b-91bd8db5bdd1', l='ServerLevel[world]', x=-2439.30, y=62.00, z=161.50, cpos=[-153, 10], tl=16403, v=true] died, message: 'Cleric was slain by Zombie'
-[19:00:12] [Server thread/INFO]: estrems has made the advancement [Those Were the Days]
-[19:02:11] [Server thread/WARN]: Pikachu1572 moved wrongly!
-[19:03:00] [Server thread/INFO]: estrems has completed the challenge [Subspace Bubble]
-[19:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4637ms or 92 ticks behind
-[19:03:19] [Server thread/INFO]: Villager Villager['Villager'/20389, uuid='88f3db4c-8527-470e-afa5-858fd916d7ab', l='ServerLevel[world]', x=-2445.70, y=59.56, z=206.30, cpos=[-153, 12], tl=5557, v=true] died, message: 'Villager was slain by Villi'
-[19:03:22] [Server thread/INFO]: Villager Villager['Nitwit'/20387, uuid='14bdca24-3c8d-46e3-93de-6d965fbc9296', l='ServerLevel[world]', x=-2444.70, y=59.56, z=205.49, cpos=[-153, 12], tl=5628, v=true] died, message: 'Nitwit was slain by Villi'
-[19:06:38] [Server thread/INFO]: Ruben17 lost connection: Disconnected
-[19:06:39] [Server thread/INFO]: Ruben17 left the game
-[19:07:23] [User Authenticator #4/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
-[19:07:23] [Server thread/INFO]: Ruben17 joined the game
-[19:07:23] [Server thread/INFO]: Ruben17[/127.242.85.59:33709] logged in with entity id 30498 at ([world]-2455.3995364578905, 63.0, 166.38617096988318)
-[19:09:11] [Server thread/INFO]: Pikachu1572 was doomed to fall
-[19:12:20] [Server thread/INFO]: estrems lost connection: Disconnected
-[19:12:20] [Server thread/INFO]: estrems left the game
-[19:13:37] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
-[19:13:37] [Server thread/INFO]: Pikachu1572 left the game
-[19:15:15] [User Authenticator #5/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
-[19:15:16] [Server thread/INFO]: estrems joined the game
-[19:15:16] [Server thread/INFO]: estrems[/127.248.184.190:51617] logged in with entity id 37446 at ([world]6282.319217903236, 71.0, 3483.4250876226088)
-[19:16:20] [Server thread/INFO]: Villi lost connection: Disconnected
-[19:16:20] [Server thread/INFO]: Villi left the game
-[19:16:22] [User Authenticator #6/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
-[19:16:23] [Server thread/INFO]: Villi joined the game
-[19:16:23] [Server thread/INFO]: Villi[/127.240.193.194:37937] logged in with entity id 39033 at ([world_nether]-261.1547730523123, 233.0, 36.208352827311074)
-[19:18:40] [Server thread/INFO]: Villi lost connection: Disconnected
-[19:18:40] [Server thread/INFO]: Villi left the game
-[19:30:40] [User Authenticator #7/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
-[19:30:41] [Server thread/INFO]: Villi joined the game
-[19:30:41] [Server thread/INFO]: Villi[/127.240.193.194:57273] logged in with entity id 59605 at ([world]-2453.6139220342125, 63.0, 170.77911206696044)
-[19:31:11] [User Authenticator #7/INFO]: UUID of player Raito_404_ is bdfe06b9-8659-359a-a357-13d2b5199a1c
-[19:31:11] [Server thread/INFO]: Raito_404_ joined the game
-[19:31:11] [Server thread/INFO]: Raito_404_[/127.117.233.75:55605] logged in with entity id 60558 at ([world]-3.5, 63.0, 7.5)
-[19:31:21] [Server thread/INFO]: Villi issued server command: /ban Raito_404_
-[19:31:21] [Server thread/INFO]: [Villi: Banned Raito_404_: Banned by an operator.]
-[19:31:21] [Server thread/INFO]: Raito_404_ lost connection: You are banned from this server
-[19:31:21] [Server thread/INFO]: Raito_404_ left the game
-[19:31:36] [Server thread/INFO]: Villi issued server command: /whitelist add Villi
-[19:31:36] [Server thread/INFO]: [Villi: Added Villi to the whitelist]
-[19:31:39] [User Authenticator #7/INFO]: UUID of player Raito_404_ is bdfe06b9-8659-359a-a357-13d2b5199a1c
-[19:31:39] [Server thread/INFO]: Disconnecting Raito_404_ (/127.117.233.75:60083): You are banned from this server.
-Reason: Banned by an operator.
-[19:31:39] [Server thread/INFO]: Raito_404_ (/127.117.233.75:60083) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[19:31:41] [Server thread/INFO]: Villi issued server command: /whitelist add estrems
-[19:31:41] [Server thread/INFO]: [Villi: Added estrems to the whitelist]
-[19:31:43] [Server thread/INFO]: Villi issued server command: /whitelist add rotceh9889
-[19:31:43] [Server thread/INFO]: [Villi: Added rotceh9889 to the whitelist]
-[19:31:46] [Server thread/INFO]: Villi issued server command: /whitelist add Ruben17
-[19:31:46] [Server thread/INFO]: [Villi: Added Ruben17 to the whitelist]
-[19:31:50] [Server thread/INFO]: Villi issued server command: /whitelist on
-[19:31:50] [Server thread/INFO]: [Villi: Whitelist is now turned on]
-[19:31:56] [Server thread/INFO]: Villi issued server command: /whitelist remove estrems
-[19:31:56] [Server thread/INFO]: [Villi: Removed estrems from the whitelist]
-[19:32:00] [Server thread/INFO]: Villi issued server command: /kick estrems
-[19:32:00] [Server thread/INFO]: estrems lost connection: Kicked by an operator
-[19:32:00] [Server thread/INFO]: estrems left the game
-[19:32:00] [Server thread/INFO]: [Villi: Kicked estrems: Kicked by an operator]
-[19:32:04] [User Authenticator #7/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
-[19:32:04] [Server thread/INFO]: Disconnecting estrems (/127.248.184.190:47079): You are not whitelisted on this server!
-[19:32:04] [Server thread/INFO]: estrems (/127.248.184.190:47079) lost connection: You are not whitelisted on this server!
-[19:32:17] [Server thread/INFO]: Villi issued server command: /whitelist add estrems
-[19:32:17] [Server thread/INFO]: [Villi: Added estrems to the whitelist]
-[19:32:24] [User Authenticator #7/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
-[19:32:25] [Server thread/INFO]: estrems joined the game
-[19:32:25] [Server thread/INFO]: estrems[/127.248.184.190:42725] logged in with entity id 62420 at ([world]1105.703655789921, 86.0, 751.6615563212414)
-[19:32:42] [Server thread/INFO]: Villi issued server command: /whitelist add Pikachu1572
-[19:32:42] [Server thread/INFO]: [Villi: Added Pikachu1572 to the whitelist]
-[19:33:47] [Server thread/INFO]: estrems lost connection: Disconnected
-[19:33:47] [Server thread/INFO]: estrems left the game
-[19:39:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Villi> -326 77 26
-[19:47:38] [User Authenticator #8/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
-[19:47:38] [Server thread/INFO]: Pikachu1572 joined the game
-[19:47:38] [Server thread/INFO]: Pikachu1572[/127.142.165.218:48363] logged in with entity id 75146 at ([world_nether]-274.3353241899122, 128.0, 31.681438020978927)
-[19:50:47] [Server thread/INFO]: Villi has made the advancement [A Terrible Fortress]
-[19:56:30] [Async Chat Thread - #3/INFO]: [Not Secure] <Pikachu1572> NO
-[19:56:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Pikachu1572> NO TENGO
-[19:56:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Villi> vv
-[19:59:56] [Server thread/WARN]: Ruben17 was kicked for floating too long!
-[19:59:56] [Server thread/INFO]: Ruben17 lost connection: Flying is not enabled on this server
-[19:59:56] [Server thread/INFO]: Ruben17 left the game
-[20:00:10] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
-[20:00:10] [Server thread/INFO]: rotceh9889 left the game
-[20:00:10] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
-[20:00:10] [Server thread/INFO]: Pikachu1572 left the game
-[20:00:29] [User Authenticator #9/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
-[20:00:32] [Server thread/INFO]: Ruben17 joined the game
-[20:00:32] [Server thread/INFO]: Ruben17[/127.242.85.59:34831] logged in with entity id 80039 at ([world]-2460.5467483617363, 63.0, 135.298344653594)
-[20:00:35] [User Authenticator #9/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
-[20:00:40] [Server thread/INFO]: rotceh9889 joined the game
-[20:00:40] [Server thread/INFO]: rotceh9889[/127.242.85.59:52993] logged in with entity id 80346 at ([world]-2455.7114377229154, 63.0, 142.6767156138641)
-[20:01:22] [User Authenticator #9/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
-[20:01:22] [Server thread/INFO]: Pikachu1572 joined the game
-[20:01:22] [Server thread/INFO]: Pikachu1572[/127.142.165.218:50911] logged in with entity id 80504 at ([world_nether]-297.01227093540814, 236.0, 65.52399114680924)
-[20:03:04] [Server thread/INFO]: Villi lost connection: Disconnected
-[20:03:04] [Server thread/INFO]: Villi left the game
-[20:04:10] [Server thread/INFO]: Villager Villager['Villager'/80192, uuid='6efd710d-5e1c-4d22-b8a7-d321caacfce5', l='ServerLevel[world]', x=-2446.70, y=63.00, z=195.50, cpos=[-153, 12], tl=4333, v=true] died, message: 'Villager was slain by rotceh9889'
-[20:05:28] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
-[20:05:28] [Server thread/INFO]: rotceh9889 left the game
-[20:12:25] [User Authenticator #10/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
-[20:12:25] [Server thread/INFO]: rotceh9889 joined the game
-[20:12:26] [Server thread/INFO]: rotceh9889[/127.242.85.59:40175] logged in with entity id 82812 at ([world_nether]-286.67919607081694, 233.0, 49.72830567990732)
-[20:12:47] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
-[20:12:47] [Server thread/INFO]: rotceh9889 left the game
-[20:14:03] [User Authenticator #11/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
-[20:14:03] [Server thread/INFO]: rotceh9889 joined the game
-[20:14:03] [Server thread/INFO]: rotceh9889[/127.242.85.59:44569] logged in with entity id 83185 at ([world_nether]-285.06682465252493, 233.0, 46.365581300899954)
-[20:36:42] [User Authenticator #12/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
-[20:36:42] [Server thread/INFO]: estrems joined the game
-[20:36:42] [Server thread/INFO]: estrems[/127.248.184.190:37379] logged in with entity id 92165 at ([world]215.5321116834294, 94.0, 368.01468270912477)
-[20:42:35] [Server thread/INFO]: Villager Villager['Librarian'/93852, uuid='d91946c7-7e73-40b2-81dc-b8a9780c2bef', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=4739, v=true] died, message: 'Librarian was slain by Zombie'
-[20:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
-[20:43:13] [Server thread/INFO]: Stopping server
-[20:43:14] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
-[20:43:14] [Server thread/INFO]: [BetterSleep] Disabling BetterSleep v1.0
-[20:43:14] [Server thread/INFO]: Saving players
-[20:43:14] [Server thread/INFO]: Ruben17 lost connection: Server closed
-[20:43:14] [Server thread/INFO]: Ruben17 left the game
-[20:43:14] [Server thread/INFO]: Pikachu1572 lost connection: Server closed
-[20:43:14] [Server thread/INFO]: Pikachu1572 left the game
-[20:43:14] [Server thread/INFO]: rotceh9889 lost connection: Server closed
-[20:43:15] [Server thread/INFO]: rotceh9889 left the game
-[20:43:15] [Server thread/INFO]: estrems lost connection: Server closed
-[20:43:15] [Server thread/INFO]: estrems left the game
-[20:43:15] [Server thread/INFO]: Saving worlds
-[20:43:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:43:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[20:43:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[20:43:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[20:43:22] [Server thread/INFO]: [ChunkHolderManager] Saved 1487 block chunks, 1541 entity chunks, 1 poi chunks in world 'world' in 6.80s
-[20:43:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[20:43:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[20:43:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[20:43:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[20:43:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[20:43:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Saved 260 block chunks, 465 entity chunks, 0 poi chunks in world 'world_nether' in 0.90s
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[20:43:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 54 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[20:43:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[20:43:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:43:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:43:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:43:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:43:24] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[20:43:24] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[20:43:24] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[20:43:24] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[20:56:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:56:24] [ServerMain/INFO]: Loaded 1407 recipes
+[20:56:24] [ServerMain/INFO]: Loaded 1520 advancements
+[20:56:24] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[20:56:25] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 620.4ms
+[20:56:25] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:56:25] [Server thread/INFO]: Loading properties
+[20:56:25] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[20:56:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:56:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:56:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:56:27] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:56:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:56:27] [Server thread/INFO]: Default game type: SURVIVAL
+[20:56:27] [Server thread/INFO]: Generating keypair
+[20:56:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:56:28] [Server thread/INFO]: Using epoll channel type
+[20:56:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:56:28] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[20:56:28] [Server thread/INFO]: [BetterSleep] Loading server plugin BetterSleep v1.0
+[20:56:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[20:56:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:56:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[20:56:30] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[20:56:30] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:56:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:56:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:56:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:56:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:56:30] [Server thread/INFO]: Preparing level "world"
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:56:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:56:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:56:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:56:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:56:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:56:33] [Server thread/INFO]: Time elapsed: 1395 ms
+[20:56:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:56:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:56:34] [Server thread/INFO]: Preparing spawn area: 18%
+[20:56:34] [Server thread/INFO]: Preparing spawn area: 18%
+[20:56:34] [Server thread/INFO]: Time elapsed: 1385 ms
+[20:56:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:56:34] [Server thread/INFO]: Preparing spawn area: 0%
+[20:56:34] [Server thread/INFO]: Time elapsed: 237 ms
+[20:56:34] [Server thread/INFO]: [BetterSleep] Enabling BetterSleep v1.0
+[20:56:35] [Server thread/INFO]: [spark] Starting background profiler...
+[20:56:35] [Server thread/INFO]: Done preparing level "world" (4.533s)
+[20:56:35] [Server thread/INFO]: Running delayed init tasks
+[20:56:35] [Server thread/INFO]: Done (24.675s)! For help, type "help"
+[20:56:35] [User Authenticator #1/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[20:56:35] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[20:56:36] [User Authenticator #0/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[20:56:37] [User Authenticator #0/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[20:56:37] [Server thread/INFO]: estrems joined the game
+[20:56:37] [Server thread/INFO]: estrems[/127.248.184.190:34207] logged in with entity id 33 at ([world]-2441.3593485451456, 63.0, 169.30165046281726)
+[20:56:38] [Server thread/INFO]: Pikachu1572 joined the game
+[20:56:38] [Server thread/INFO]: Pikachu1572[/127.142.165.218:59787] logged in with entity id 32 at ([world_nether]-274.2650505228464, 128.0, 51.30000001192093)
+[20:56:39] [Server thread/INFO]: rotceh9889 joined the game
+[20:56:39] [Server thread/INFO]: rotceh9889[/127.242.85.59:44763] logged in with entity id 113 at ([world_nether]-333.3846272875718, 128.0, 147.84122492693004)
+[20:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[20:56:45] [User Authenticator #0/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[20:56:46] [Server thread/INFO]: Ruben17 joined the game
+[20:56:46] [Server thread/INFO]: Ruben17[/127.242.85.59:34323] logged in with entity id 578 at ([world_nether]-117.4389962155406, 133.9463066564979, 51.81978831991475)
+[20:56:51] [Server thread/WARN]: estrems moved too quickly! -13.722823963901192,0.0,4.153208243566553
+[20:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6632ms or 132 ticks behind
+[20:57:31] [Server thread/INFO]: Villager Villager['Librarian'/95, uuid='4560ed93-fed7-4249-abbc-3dc603ac03de', l='ServerLevel[world]', x=-2439.30, y=62.00, z=171.50, cpos=[-153, 10], tl=895, v=true] died, message: 'Librarian was slain by Zombie'
+[20:59:29] [Server thread/INFO]: estrems was slain by Ruben17
+[20:59:57] [Server thread/INFO]: Ruben17 was slain by estrems
+[21:01:16] [Server thread/INFO]: Pikachu1572 was doomed to fall
