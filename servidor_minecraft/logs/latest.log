@@ -288,3 +288,11 @@
 [16:56:10] [Server thread/INFO]: Ruben17 joined the game
 [16:56:10] [Server thread/INFO]: Ruben17[/127.242.85.59:45221] logged in with entity id 264131 at ([world]223.36647399523378, 89.0, 386.52872123121193)
 [16:57:15] [Server thread/INFO]: Villi issued server command: /skin set Vegeta777
+[17:18:13] [Server thread/INFO]: Villi issued server command: /skin set paco
+[17:22:19] [Server thread/INFO]: Villi lost connection: Disconnected
+[17:22:19] [Server thread/INFO]: Villi left the game
+[17:25:00] [User Authenticator #17/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[17:25:01] [Server thread/INFO]: Villi joined the game
+[17:25:01] [Server thread/INFO]: Villi[/127.240.193.194:45749] logged in with entity id 272935 at ([world]-2458.5, 63.0, 179.5)
+[17:25:07] [Server thread/INFO]: Villi lost connection: Disconnected
+[17:25:07] [Server thread/INFO]: Villi left the game
