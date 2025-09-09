@@ -313,3 +313,14 @@
 [17:50:43] [Server thread/INFO]: estrems[/127.248.184.190:44545] logged in with entity id 281374 at ([world]-2454.6227817542326, 63.0, 169.00575758080296)
 [17:53:10] [Server thread/INFO]: estrems was shot by Skeleton
 [17:54:21] [Server thread/INFO]: estrems was shot by Ruben17
+[17:57:49] [Server thread/INFO]: estrems has made the advancement [A Seedy Place]
+[18:00:44] [Server thread/INFO]: Villager Villager['Librarian'/243266, uuid='6136acca-4a47-441e-89f1-347c741bd76a', l='ServerLevel[world]', x=-2439.30, y=62.00, z=169.50, cpos=[-153, 10], tl=143796, v=true] died, message: 'Librarian was slain by Zombie'
+[18:00:56] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[18:00:56] [Server thread/INFO]: Pikachu1572 left the game
+[18:01:26] [User Authenticator #20/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[18:01:27] [Server thread/INFO]: Pikachu1572 joined the game
+[18:01:27] [Server thread/INFO]: Pikachu1572[/127.142.165.218:37943] logged in with entity id 290187 at ([world_nether]-325.6019806979084, 30.29768777472981, 62.69999998807907)
+[18:01:30] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[18:01:30] [Server thread/INFO]: Pikachu1572 left the game
+[18:02:02] [Server thread/INFO]: Villager Villager['Librarian'/259878, uuid='9cbcb1f9-3f95-465f-ad17-142505080176', l='ServerLevel[world]', x=-2439.30, y=62.00, z=171.50, cpos=[-153, 10], tl=93586, v=true] died, message: 'Librarian was slain by Zombie'
+[18:05:55] [Server thread/INFO]: Ruben17 has reached the goal [Zombie Doctor]
