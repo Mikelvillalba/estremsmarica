@@ -92,3 +92,17 @@
 [18:43:14] [User Authenticator #1/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
 [18:43:14] [Server thread/INFO]: Villi joined the game
 [18:43:14] [Server thread/INFO]: Villi[/127.240.193.194:56241] logged in with entity id 7224 at ([world_nether]-161.3213528481522, 32.0, 333.30000001192093)
+[18:47:35] [Server thread/INFO]: Villager Villager['Librarian'/4388, uuid='d9ac48db-4d41-498b-af1d-c2586c65fe2a', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=7817, v=true] died, message: 'Librarian was slain by Zombie'
+[18:47:52] [Server thread/INFO]: Villager Villager['Librarian'/4387, uuid='6ba27d81-9823-4b95-9a74-f32bc2fd241f', l='ServerLevel[world]', x=-2439.30, y=62.00, z=175.50, cpos=[-153, 10], tl=8167, v=true] died, message: 'Librarian was slain by Zombie'
+[18:49:16] [Server thread/INFO]: Villager Villager['Librarian'/4391, uuid='31f9327b-f04f-4e62-909a-15a5338d9719', l='ServerLevel[world]', x=-2439.30, y=62.00, z=167.50, cpos=[-153, 10], tl=9849, v=true] died, message: 'Librarian was slain by Zombie'
+[18:51:14] [Server thread/INFO]: Villi lost connection: Disconnected
+[18:51:14] [Server thread/INFO]: Villi left the game
+[18:51:15] [User Authenticator #2/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[18:51:16] [Server thread/INFO]: Villi joined the game
+[18:51:16] [Server thread/INFO]: Villi[/127.240.193.194:57549] logged in with entity id 12472 at ([world_nether]-218.69999998807907, 57.0, 248.4347305732975)
+[18:52:49] [Server thread/INFO]: Villager Villager['Librarian'/4392, uuid='2e007a39-64c6-4660-b22b-c3e3259e93a6', l='ServerLevel[world]', x=-2439.30, y=62.00, z=165.50, cpos=[-153, 10], tl=14095, v=true] died, message: 'Librarian was slain by Zombie'
+[18:53:52] [Server thread/INFO]: Villi lost connection: Disconnected
+[18:53:52] [Server thread/INFO]: Villi left the game
+[18:53:52] [User Authenticator #3/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[18:53:53] [Server thread/INFO]: Villi joined the game
+[18:53:53] [Server thread/INFO]: Villi[/127.240.193.194:49059] logged in with entity id 14157 at ([world_nether]-218.69999998807907, 57.0, 248.4347305732975)
