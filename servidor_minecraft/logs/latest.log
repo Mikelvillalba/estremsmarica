@@ -124,3 +124,56 @@
 [19:12:20] [Server thread/INFO]: estrems left the game
 [19:13:37] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
 [19:13:37] [Server thread/INFO]: Pikachu1572 left the game
+[19:15:15] [User Authenticator #5/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[19:15:16] [Server thread/INFO]: estrems joined the game
+[19:15:16] [Server thread/INFO]: estrems[/127.248.184.190:51617] logged in with entity id 37446 at ([world]6282.319217903236, 71.0, 3483.4250876226088)
+[19:16:20] [Server thread/INFO]: Villi lost connection: Disconnected
+[19:16:20] [Server thread/INFO]: Villi left the game
+[19:16:22] [User Authenticator #6/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:16:23] [Server thread/INFO]: Villi joined the game
+[19:16:23] [Server thread/INFO]: Villi[/127.240.193.194:37937] logged in with entity id 39033 at ([world_nether]-261.1547730523123, 233.0, 36.208352827311074)
+[19:18:40] [Server thread/INFO]: Villi lost connection: Disconnected
+[19:18:40] [Server thread/INFO]: Villi left the game
+[19:30:40] [User Authenticator #7/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:30:41] [Server thread/INFO]: Villi joined the game
+[19:30:41] [Server thread/INFO]: Villi[/127.240.193.194:57273] logged in with entity id 59605 at ([world]-2453.6139220342125, 63.0, 170.77911206696044)
+[19:31:11] [User Authenticator #7/INFO]: UUID of player Raito_404_ is bdfe06b9-8659-359a-a357-13d2b5199a1c
+[19:31:11] [Server thread/INFO]: Raito_404_ joined the game
+[19:31:11] [Server thread/INFO]: Raito_404_[/127.117.233.75:55605] logged in with entity id 60558 at ([world]-3.5, 63.0, 7.5)
+[19:31:21] [Server thread/INFO]: Villi issued server command: /ban Raito_404_
+[19:31:21] [Server thread/INFO]: [Villi: Banned Raito_404_: Banned by an operator.]
+[19:31:21] [Server thread/INFO]: Raito_404_ lost connection: You are banned from this server
+[19:31:21] [Server thread/INFO]: Raito_404_ left the game
+[19:31:36] [Server thread/INFO]: Villi issued server command: /whitelist add Villi
+[19:31:36] [Server thread/INFO]: [Villi: Added Villi to the whitelist]
+[19:31:39] [User Authenticator #7/INFO]: UUID of player Raito_404_ is bdfe06b9-8659-359a-a357-13d2b5199a1c
+[19:31:39] [Server thread/INFO]: Disconnecting Raito_404_ (/127.117.233.75:60083): You are banned from this server.
+Reason: Banned by an operator.
+[19:31:39] [Server thread/INFO]: Raito_404_ (/127.117.233.75:60083) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19:31:41] [Server thread/INFO]: Villi issued server command: /whitelist add estrems
+[19:31:41] [Server thread/INFO]: [Villi: Added estrems to the whitelist]
+[19:31:43] [Server thread/INFO]: Villi issued server command: /whitelist add rotceh9889
+[19:31:43] [Server thread/INFO]: [Villi: Added rotceh9889 to the whitelist]
+[19:31:46] [Server thread/INFO]: Villi issued server command: /whitelist add Ruben17
+[19:31:46] [Server thread/INFO]: [Villi: Added Ruben17 to the whitelist]
+[19:31:50] [Server thread/INFO]: Villi issued server command: /whitelist on
+[19:31:50] [Server thread/INFO]: [Villi: Whitelist is now turned on]
+[19:31:56] [Server thread/INFO]: Villi issued server command: /whitelist remove estrems
+[19:31:56] [Server thread/INFO]: [Villi: Removed estrems from the whitelist]
+[19:32:00] [Server thread/INFO]: Villi issued server command: /kick estrems
+[19:32:00] [Server thread/INFO]: estrems lost connection: Kicked by an operator
+[19:32:00] [Server thread/INFO]: estrems left the game
+[19:32:00] [Server thread/INFO]: [Villi: Kicked estrems: Kicked by an operator]
+[19:32:04] [User Authenticator #7/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[19:32:04] [Server thread/INFO]: Disconnecting estrems (/127.248.184.190:47079): You are not whitelisted on this server!
+[19:32:04] [Server thread/INFO]: estrems (/127.248.184.190:47079) lost connection: You are not whitelisted on this server!
+[19:32:17] [Server thread/INFO]: Villi issued server command: /whitelist add estrems
+[19:32:17] [Server thread/INFO]: [Villi: Added estrems to the whitelist]
+[19:32:24] [User Authenticator #7/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[19:32:25] [Server thread/INFO]: estrems joined the game
+[19:32:25] [Server thread/INFO]: estrems[/127.248.184.190:42725] logged in with entity id 62420 at ([world]1105.703655789921, 86.0, 751.6615563212414)
+[19:32:42] [Server thread/INFO]: Villi issued server command: /whitelist add Pikachu1572
+[19:32:42] [Server thread/INFO]: [Villi: Added Pikachu1572 to the whitelist]
+[19:33:47] [Server thread/INFO]: estrems lost connection: Disconnected
+[19:33:47] [Server thread/INFO]: estrems left the game
