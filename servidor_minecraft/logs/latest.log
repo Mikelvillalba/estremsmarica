@@ -85,3 +85,45 @@
 [20:59:29] [Server thread/INFO]: estrems was slain by Ruben17
 [20:59:57] [Server thread/INFO]: Ruben17 was slain by estrems
 [21:01:16] [Server thread/INFO]: Pikachu1572 was doomed to fall
+[21:28:42] [Server thread/INFO]: Stopping server
+[21:28:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[21:28:42] [Server thread/INFO]: [BetterSleep] Disabling BetterSleep v1.0
+[21:28:42] [Server thread/INFO]: Saving players
+[21:28:42] [Server thread/INFO]: rotceh9889 lost connection: Server closed
+[21:28:42] [Server thread/INFO]: rotceh9889 left the game
+[21:28:42] [Server thread/INFO]: estrems lost connection: Server closed
+[21:28:42] [Server thread/INFO]: estrems left the game
+[21:28:42] [Server thread/INFO]: Ruben17 lost connection: Server closed
+[21:28:42] [Server thread/INFO]: Ruben17 left the game
+[21:28:42] [Server thread/INFO]: Pikachu1572 lost connection: Server closed
+[21:28:42] [Server thread/INFO]: Pikachu1572 left the game
+[21:28:42] [Server thread/INFO]: Saving worlds
+[21:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Saved 99 block chunks, 251 entity chunks, 5 poi chunks in world 'world' in 0.28s
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 70 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 56 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:28:42] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:28:43] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[21:28:43] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[21:28:43] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:28:43] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
