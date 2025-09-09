@@ -100,3 +100,9 @@
 [09:42:17] [Server thread/INFO]: Villi[/127.240.193.194:55579] logged in with entity id 23136 at ([world_the_end]-307.7310667283325, 1.0, -7.575444494457229)
 [09:43:32] [Server thread/INFO]: Villi lost connection: Disconnected
 [09:43:32] [Server thread/INFO]: Villi left the game
+[09:44:00] [User Authenticator #2/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[09:44:01] [Server thread/INFO]: Villi joined the game
+[09:44:01] [Server thread/INFO]: Villi[/127.240.193.194:55691] logged in with entity id 23142 at ([world_the_end]-315.6488162366844, 1.0, -7.063790933508682)
+[09:52:40] [User Authenticator #3/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[09:52:40] [Server thread/INFO]: Ruben17 joined the game
+[09:52:40] [Server thread/INFO]: Ruben17[/127.242.85.59:41837] logged in with entity id 23258 at ([world]214.26773631228954, 89.0, 382.13023744293423)
