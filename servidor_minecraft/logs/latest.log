@@ -267,3 +267,6 @@
 [15:30:35] [Server thread/INFO]: Villager Villager['Librarian'/232119, uuid='790bedcd-a237-4de3-841b-19d2bf71e477', l='ServerLevel[world]', x=-2439.30, y=62.00, z=173.50, cpos=[-153, 10], tl=5482, v=true] died, message: 'Librarian was slain by Zombie'
 [15:32:14] [Async Chat Thread - #24/INFO]: [Not Secure] <rotceh9889> dame esmeraldas
 [15:32:43] [Server thread/INFO]: Villager Villager['Librarian'/208536, uuid='8303faff-9fe2-49af-8215-222beae96547', l='ServerLevel[world]', x=-2439.30, y=62.00, z=169.50, cpos=[-153, 10], tl=78538, v=true] died, message: 'Librarian was slain by Zombie'
+[15:35:38] [Server thread/INFO]: Villager Villager['Librarian'/211601, uuid='65ba5591-65c5-4116-af64-01497d596296', l='ServerLevel[world]', x=-2439.30, y=62.00, z=167.50, cpos=[-153, 10], tl=76374, v=true] died, message: 'Librarian was slain by Zombie'
+[15:43:19] [Server thread/INFO]: Pikachu1572 issued server command: /MSG
+[15:43:40] [Server thread/INFO]: Pikachu1572 issued server command: /msg rotceh9889 QUEDATE TU CON LA MITAD Y O LA OTRA
