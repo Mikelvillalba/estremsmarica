@@ -129,3 +129,8 @@
 [10:37:53] [Server thread/INFO]: estrems has made the advancement [Sneak 100]
 [10:44:46] [Server thread/INFO]: Villi issued server command: /give Villi minecraft:gold_nugget 1
 [10:44:46] [Server thread/INFO]: [Villi: Gave 1 [Gold Nugget] to Villi]
+[10:44:57] [Server thread/INFO]: Villi issued server command: /give Villi minecraft:gold_ore 50
+[10:44:57] [Server thread/INFO]: [Villi: Gave 50 [Gold Ore] to Villi]
+[10:46:17] [Server thread/INFO]: Villi issued server command: /tp 200 100 200
+[10:46:17] [Server thread/INFO]: [Villi: Teleported Villi to 200.500000, 100.000000, 200.500000]
+[10:55:10] [Server thread/INFO]: estrems was slain by Warden
