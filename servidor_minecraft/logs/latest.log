@@ -303,3 +303,7 @@
 [17:35:23] [Async Chat Thread - #31/INFO]: [Not Secure] <Villi> cada vez q se saca un aldeano
 [17:36:28] [Async Chat Thread - #32/INFO]: [Not Secure] <Villi> -323
 [17:36:34] [Async Chat Thread - #32/INFO]: [Not Secure] <Villi> 77 27
+[17:37:46] [Server thread/INFO]: Villi lost connection: Disconnected
+[17:37:46] [Server thread/INFO]: Villi left the game
+[17:40:15] [Server thread/INFO]: Villager Villager['Weaponsmith'/243279, uuid='d6db8e59-9909-4541-ad74-c31c9c214d7c', l='ServerLevel[world]', x=-2468.35, y=63.00, z=177.42, cpos=[-155, 11], tl=119282, v=true] died, message: 'Weaponsmith was slain by rotceh9889'
+[17:42:10] [Server thread/INFO]: Villager Villager['Villager'/243281, uuid='0185d048-67c4-4a22-9572-ae5d10797c19', l='ServerLevel[world]', x=-2467.69, y=63.13, z=140.99, cpos=[-155, 8], tl=121582, v=true] died, message: 'Villager was slain by Ruben17'
