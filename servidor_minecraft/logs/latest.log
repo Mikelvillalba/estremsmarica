@@ -201,3 +201,8 @@
 [13:26:57] [Server thread/WARN]: estrems moved too quickly! -16.580136529078118,-2.339330512067093,14.18120126874743
 [13:27:07] [Server thread/INFO]: Villager Villager['Librarian'/144412, uuid='df277158-434b-4bbf-826f-168218e9e16f', l='ServerLevel[world]', x=224.30, y=89.00, z=386.70, cpos=[14, 24], tl=28968, v=true] died, message: 'Librarian was slain by Ruben17'
 [13:27:35] [Server thread/WARN]: estrems moved too quickly! 15.477898271405138,-6.528960607950808,46.06595417933522
+[13:44:19] [Server thread/INFO]: estrems lost connection: Disconnected
+[13:44:19] [Server thread/INFO]: estrems left the game
+[13:50:30] [Server thread/INFO]: Villi issued server command: /locate biome minecraft:dark_forest
+[13:50:31] [Server thread/INFO]: Locating element minecraft:dark_forest took 580 ms
+[13:51:08] [Async Chat Thread - #19/INFO]: [Not Secure] <Villi> -3800 1400
