@@ -249,3 +249,5 @@
 [14:47:18] [Server thread/INFO]: Villager Villager['Librarian'/193650, uuid='79d7ac28-1c20-416c-a56a-72dab78a7fb4', l='ServerLevel[world]', x=-2482.52, y=64.00, z=162.30, cpos=[-156, 10], tl=50759, v=true] died, message: 'Librarian was slain by Pikachu1572'
 [14:53:10] [Server thread/INFO]: Villager Villager['Fisherman'/193689, uuid='e781d318-a35a-4374-9fd5-f6554d8a2a41', l='ServerLevel[world]', x=-2459.15, y=63.19, z=184.85, cpos=[-154, 11], tl=57780, v=true] died, message: 'Fisherman was slain by Villi'
 [14:53:12] [Server thread/INFO]: Villager Villager['Villager'/193690, uuid='338c5d7c-e395-409c-a2ce-528f7f4a6073', l='ServerLevel[world]', x=-2459.35, y=63.19, z=184.81, cpos=[-154, 11], tl=57824, v=true] died, message: 'Villager was slain by Villi'
+[14:53:18] [Server thread/INFO]: Villager Villager['Villager'/193687, uuid='713728f3-43aa-4324-a569-c5d6510f6b7d', l='ServerLevel[world]', x=-2456.60, y=63.19, z=192.10, cpos=[-154, 12], tl=57951, v=true] died, message: 'Villager was slain by Villi'
+[14:55:10] [Server thread/WARN]: Villi moved wrongly!
