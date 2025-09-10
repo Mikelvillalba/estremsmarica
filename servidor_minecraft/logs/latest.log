@@ -105,3 +105,23 @@
 [16:48:43] [Server thread/INFO]: Villi issued server command: /whitelist add Villi 1
 [16:48:45] [Server thread/INFO]: Villi issued server command: /whitelist add Villi1
 [16:48:45] [Server thread/INFO]: [Villi: Added Villi1 to the whitelist]
+[16:49:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Villi> voy a meter un bot afk en la granja de oro
+[16:50:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Villi> una cuenta secundaria mia
+[16:50:09] [User Authenticator #6/INFO]: UUID of player Villi1 is 688ddda8-aaf6-324d-9f60-f06f8be6d090
+[16:50:10] [Server thread/INFO]: Villi1 joined the game
+[16:50:10] [Server thread/INFO]: Villi1[/127.240.193.194:52305] logged in with entity id 11749 at ([world]-4.5, 63.0, -0.5)
+[16:50:46] [Server thread/INFO]: Made Villi1 a server operator
+[16:50:51] [Server thread/INFO]: Villi1 issued server command: /tp Villi
+[16:50:51] [Server thread/INFO]: [Villi1: Teleported Villi1 to Villi]
+[16:51:00] [Server thread/INFO]: Villi1 has reached the goal [Sky's the Limit]
+[16:51:41] [Server thread/INFO]: Villi1 has made the advancement [We Need to Go Deeper]
+[16:52:01] [Server thread/INFO]: Villi1 has made the advancement [Take Aim]
+[16:59:21] [Server thread/INFO]: Villager Villager['Villager'/19322, uuid='e3d4137c-3837-451c-8e4c-04350fc6e19e', l='ServerLevel[world]', x=207.39, y=90.00, z=378.96, cpos=[12, 23], tl=162, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:23] [Server thread/INFO]: Villager Villager['Villager'/19430, uuid='000ba937-8f46-4049-8955-ecc9cfc486e0', l='ServerLevel[world]', x=207.71, y=89.12, z=378.30, cpos=[12, 23], tl=110, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:33] [Server thread/INFO]: Villager Villager['Villager'/19494, uuid='b0d1c1c7-5140-4ceb-8e81-9cc00c4eac43', l='ServerLevel[world]', x=207.35, y=90.17, z=378.30, cpos=[12, 23], tl=272, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:33] [Server thread/INFO]: Villager Villager['Villager'/19242, uuid='1b92cafd-f60c-476e-9ccb-58ab4d6428b1', l='ServerLevel[world]', x=207.07, y=90.00, z=379.28, cpos=[12, 23], tl=522, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:33] [Server thread/INFO]: Villager Villager['Villager'/19406, uuid='4b354848-bfd0-4990-a28c-3a0eac4b899c', l='ServerLevel[world]', x=206.73, y=90.00, z=379.08, cpos=[12, 23], tl=332, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:33] [Server thread/INFO]: Villager Villager['Villager'/18656, uuid='dd154a0a-dcb0-459e-9558-4dfdfd3414dc', l='ServerLevel[world]', x=207.37, y=89.75, z=379.57, cpos=[12, 23], tl=1299, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:33] [Server thread/INFO]: Villager Villager['Villager'/19389, uuid='7dd023f4-7908-4eaf-8776-992c1b16902d', l='ServerLevel[world]', x=206.30, y=90.00, z=378.97, cpos=[12, 23], tl=346, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:34] [Server thread/INFO]: Villager Villager['Villager'/19573, uuid='5924acbc-06a8-424e-ab66-840b64db4a3f', l='ServerLevel[world]', x=206.46, y=90.00, z=378.30, cpos=[12, 23], tl=215, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:34] [Server thread/INFO]: Villager Villager['Villager'/19537, uuid='7b77cf48-a969-4a5d-bf73-c1c89c94570c', l='ServerLevel[world]', x=206.55, y=90.00, z=379.33, cpos=[12, 23], tl=269, v=true] died, message: 'Villager was slain by Ruben17'
