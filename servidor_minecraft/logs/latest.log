@@ -114,3 +114,11 @@
 [13:36:19] [Server thread/INFO]: estrems joined the game
 [13:36:19] [Server thread/INFO]: estrems[/127.248.184.190:48631] logged in with entity id 30612 at ([world_nether]-422.95239877663766, 245.0, 42.35385220915479)
 [13:45:19] [Server thread/INFO]: estrems has completed the challenge [Return to Sender]
+[13:57:24] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/37284, uuid='70f32b9d-7adf-4fcd-b7ed-7b67dd63ad9e', l='ServerLevel[world_nether]', x=-444.49, y=128.00, z=-0.44, cpos=[-28, -1], tl=11430, v=true] died: peque fell from a high place
+[13:57:25] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/37438, uuid='21866712-4898-4e4f-8cff-6b2d6772c7a8', l='ServerLevel[world_nether]', x=-442.56, y=128.00, z=-2.35, cpos=[-28, -1], tl=10784, v=true] died: peque fell from a high place
+[13:57:28] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/37216, uuid='1a7f18d7-000f-4f40-b62b-42302ac69b4e', l='ServerLevel[world_nether]', x=-446.33, y=128.00, z=1.59, cpos=[-28, 0], tl=11729, v=true] died: peque fell from a high place
+[13:57:40] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/38055, uuid='6cd2e2ac-8059-4c6d-b420-5303c10ae464', l='ServerLevel[world_nether]', x=-446.45, y=128.00, z=47.38, cpos=[-28, 2], tl=8184, v=true] died: peque fell from a high place
+[13:57:41] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/38056, uuid='a08ff349-9a79-4901-b2fd-655bd9bee0a9', l='ServerLevel[world_nether]', x=-444.58, y=128.00, z=49.40, cpos=[-28, 3], tl=8202, v=true] died: peque fell from a high place
+[13:58:23] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/36094, uuid='c29b3644-a083-4310-83a9-26f437ac5619', l='ServerLevel[world_nether]', x=-396.55, y=128.00, z=-2.58, cpos=[-25, -1], tl=15934, v=true] died: peque fell from a high place
+[13:58:24] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/36419, uuid='1561f5a9-fa0b-4147-a513-a2109df593e5', l='ServerLevel[world_nether]', x=-394.53, y=128.00, z=-0.29, cpos=[-25, -1], tl=15268, v=true] died: peque fell from a high place
+[13:58:26] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/36417, uuid='bf786eba-5c77-4271-bd4b-1e6f2a2e2525', l='ServerLevel[world_nether]', x=-392.56, y=128.00, z=1.44, cpos=[-25, 0], tl=15324, v=true] died: peque fell from a high place
