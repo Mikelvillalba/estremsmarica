@@ -79,3 +79,20 @@
 [16:17:02] [Async Chat Thread - #2/INFO]: [Not Secure] <Pikachu1572> hay cosas q hacer
 [16:17:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Pikachu1572> va hay q llevar aldeanos
 [16:17:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Ruben17> ok en 5 mins me meto a discord
+[16:19:00] [Server thread/INFO]: Ruben17 lost connection: Disconnected
+[16:19:00] [Server thread/INFO]: Ruben17 left the game
+[16:19:39] [User Authenticator #2/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[16:19:39] [Server thread/INFO]: Ruben17 joined the game
+[16:19:39] [Server thread/INFO]: Ruben17[/127.242.85.59:60647] logged in with entity id 2461 at ([world]313.81101762656874, 235.0, 394.79333781194384)
+[16:32:21] [User Authenticator #3/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[16:32:22] [Server thread/INFO]: Villi joined the game
+[16:32:22] [Server thread/INFO]: Villi[/127.240.193.194:45471] logged in with entity id 6070 at ([world]-2457.2143308388017, 63.0, 168.9691689555538)
+[16:33:18] [Server thread/INFO]: Villi lost connection: Disconnected
+[16:33:18] [Server thread/INFO]: Villi left the game
+[16:33:43] [User Authenticator #4/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[16:33:44] [Server thread/INFO]: Villi joined the game
+[16:33:44] [Server thread/INFO]: Villi[/127.240.193.194:57173] logged in with entity id 6626 at ([world]-2453.4010785097935, 63.0, 167.25065703423843)
+[16:33:52] [Server thread/INFO]: Villi lost connection: Disconnected
+[16:33:53] [Server thread/INFO]: Villi left the game
+[16:35:41] [Server thread/INFO]: Villager Villager['Villager'/967, uuid='195d3a83-9803-496a-82dc-7de902f1f631', l='ServerLevel[world]', x=232.15, y=84.00, z=342.15, cpos=[14, 21], tl=28909, v=true] died, message: 'Villager was slain by Pikachu1572'
+[16:37:11] [Server thread/INFO]: Villager Villager['Villager'/928, uuid='92b98de9-8c5e-428c-8fed-cff218baf281', l='ServerLevel[world]', x=227.70, y=85.00, z=339.63, cpos=[14, 21], tl=30723, v=true] died, message: 'Villager was slain by Zombie'
