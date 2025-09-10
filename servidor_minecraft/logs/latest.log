@@ -95,3 +95,10 @@
 [13:01:45] [Server thread/INFO]: Pikachu1572[/127.142.165.218:40441] logged in with entity id 8237 at ([world_nether]-456.50588073980526, 128.0, -10.226452856898437)
 [13:06:30] [Async Chat Thread - #0/INFO]: [Not Secure] <estrems> -324 77 26
 [13:06:43] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 973112b0-25fa-45d1-a0ed-c3971c457384, mapped to EnderMan['Enderman'/11821, uuid='973112b0-25fa-45d1-a0ed-c3971c457384', l='ServerLevel[world_nether]', x=-391.24, y=103.00, z=362.23, cpos=[-25, 22], tl=0, v=true], can't add EnderMan['Enderman'/11828, uuid='973112b0-25fa-45d1-a0ed-c3971c457384', l='ServerLevel[world_nether]', x=-383.49, y=103.00, z=368.46, cpos=[-24, 23], tl=0, v=false]
+[13:19:21] [Server thread/INFO]: estrems has made the advancement [War Pigs]
+[13:20:34] [User Authenticator #4/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[13:20:34] [Server thread/INFO]: Villi joined the game
+[13:20:34] [Server thread/INFO]: Villi[/127.240.193.194:43303] logged in with entity id 22736 at ([world_nether]-389.4318451892815, 128.0, 23.916900257964258)
+[13:24:38] [Server thread/INFO]: Villager Villager['Librarian'/17164, uuid='50c8fd4a-ac3b-4f1a-985a-235d56307a2b', l='ServerLevel[world]', x=-2439.30, y=62.00, z=157.50, cpos=[-153, 9], tl=16592, v=true] died, message: 'Librarian was slain by Zombie'
+[13:25:36] [Async Chat Thread - #1/INFO]: [Not Secure] <Villi> dame materiales
+[13:25:40] [Async Chat Thread - #1/INFO]: [Not Secure] <Villi> y voy haciendo
