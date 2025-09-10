@@ -96,3 +96,12 @@
 [16:33:53] [Server thread/INFO]: Villi left the game
 [16:35:41] [Server thread/INFO]: Villager Villager['Villager'/967, uuid='195d3a83-9803-496a-82dc-7de902f1f631', l='ServerLevel[world]', x=232.15, y=84.00, z=342.15, cpos=[14, 21], tl=28909, v=true] died, message: 'Villager was slain by Pikachu1572'
 [16:37:11] [Server thread/INFO]: Villager Villager['Villager'/928, uuid='92b98de9-8c5e-428c-8fed-cff218baf281', l='ServerLevel[world]', x=227.70, y=85.00, z=339.63, cpos=[14, 21], tl=30723, v=true] died, message: 'Villager was slain by Zombie'
+[16:39:03] [Server thread/INFO]: Villager Villager['Villager'/930, uuid='f3dd3fe7-9e63-4779-986d-03d6937a913f', l='ServerLevel[world]', x=234.94, y=84.00, z=343.30, cpos=[14, 21], tl=32954, v=true] died, message: 'Villager was slain by Pikachu1572'
+[16:41:48] [User Authenticator #5/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[16:41:49] [Server thread/INFO]: Villi joined the game
+[16:41:49] [Server thread/INFO]: Villi[/127.240.193.194:49761] logged in with entity id 8328 at ([world]-2453.4010785097935, 63.0, 167.25065703423843)
+[16:43:23] [Server thread/INFO]: Villager Villager['Farmer'/8380, uuid='d007ec35-be01-4851-910a-1ad1fc123234', l='ServerLevel[world]', x=-2439.70, y=63.00, z=159.70, cpos=[-153, 9], tl=1860, v=true] died, message: 'Farmer was slain by Zombie'
+[16:48:18] [Async Chat Thread - #4/INFO]: [Not Secure] <Villi> cualoqueir cosa por aqui, voy a farmear
+[16:48:43] [Server thread/INFO]: Villi issued server command: /whitelist add Villi 1
+[16:48:45] [Server thread/INFO]: Villi issued server command: /whitelist add Villi1
+[16:48:45] [Server thread/INFO]: [Villi: Added Villi1 to the whitelist]
