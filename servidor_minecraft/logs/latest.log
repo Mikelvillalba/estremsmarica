@@ -232,3 +232,44 @@
 [19:12:13] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
 [19:12:13] [Server thread/INFO]: Pikachu1572 left the game
 [19:13:36] [Server thread/INFO]: Villager Villager['Librarian'/157668, uuid='8021cb10-d512-40b1-bb39-ee64acd732d1', l='ServerLevel[world]', x=-2439.30, y=63.00, z=175.30, cpos=[-153, 10], tl=5068, v=true] died, message: 'Librarian was slain by Trader Llama'
+[19:17:43] [Server thread/INFO]: Villager Villager['Villager'/157660, uuid='ee04fe8e-48a4-46f2-8329-3e2fbd07302f', l='ServerLevel[world]', x=-2433.34, y=65.40, z=190.50, cpos=[-153, 11], tl=10019, v=true] died, message: 'Villager suffocated in a wall'
+[19:22:21] [User Authenticator #12/INFO]: UUID of player _Strelka is 44e0ad1d-4590-3009-b536-f0202fcdfc63
+[19:22:21] [Server thread/INFO]: Disconnecting _Strelka (/127.151.163.239:35007): You are not whitelisted on this server!
+[19:22:21] [Server thread/INFO]: _Strelka (/127.151.163.239:35007) lost connection: You are not whitelisted on this server!
+[19:22:38] [User Authenticator #12/INFO]: UUID of player Villi1 is 688ddda8-aaf6-324d-9f60-f06f8be6d090
+[19:22:38] [Server thread/INFO]: Villi1 lost connection: You logged in from another location
+[19:22:38] [Server thread/INFO]: Villi1 left the game
+[19:22:38] [Server thread/INFO]: Villi1 joined the game
+[19:22:38] [Server thread/INFO]: Villi1[/127.151.163.239:33833] logged in with entity id 171760 at ([world_nether]-518.6333320212717, 244.1875, 14.45850778571329)
+[19:22:40] [Server thread/INFO]: [Villi1: Set own game mode to Creative Mode]
+[19:22:45] [User Authenticator #12/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:22:45] [Server thread/INFO]: Villi joined the game
+[19:22:45] [Server thread/INFO]: Villi[/127.240.193.194:53439] logged in with entity id 171966 at ([world]-6091.314831790156, -5.0, 1890.9133069510788)
+[19:23:15] [Server thread/INFO]: Villi1 has made the advancement [Monster Hunter]
+[19:23:24] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/12847, uuid='3f2aec70-1615-4df2-9159-6941bdf8f4b7', l='ServerLevel[world_nether]', x=-542.10, y=128.00, z=-12.11, cpos=[-34, -1], tl=181885, v=true] died: peque was doomed to fall by Villi1
+[19:23:24] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/12848, uuid='812a88b0-6ce2-4e3c-849c-212b16a9cf16', l='ServerLevel[world_nether]', x=-545.29, y=128.00, z=-9.01, cpos=[-35, -1], tl=181887, v=true] died: peque was doomed to fall by Villi1
+[19:23:24] [User Authenticator #12/INFO]: UUID of player Villi1 is 688ddda8-aaf6-324d-9f60-f06f8be6d090
+[19:23:24] [Server thread/INFO]: Villi1 lost connection: You logged in from another location
+[19:23:24] [Server thread/INFO]: Villi1 left the game
+[19:23:25] [Server thread/INFO]: Villi1 joined the game
+[19:23:25] [Server thread/INFO]: Villi1[/127.240.193.194:43481] logged in with entity id 172831 at ([world_nether]-490.7932618448093, 245.20000004768372, 25.07819173783719)
+[19:23:25] [Server thread/INFO]: Villi1 has made the advancement [Monster Hunter]
+[19:23:25] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/12690, uuid='7ff24496-3bc5-43e2-8f74-d564d9c7917a', l='ServerLevel[world_nether]', x=-493.21, y=128.00, z=-14.85, cpos=[-31, -1], tl=181948, v=true] died: peque was doomed to fall by Villi1
+[19:23:26] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/12691, uuid='2d2306b4-01c5-457a-8114-6a4e6f2a34a5', l='ServerLevel[world_nether]', x=-491.96, y=128.00, z=-11.87, cpos=[-31, -1], tl=181966, v=true] died: peque was doomed to fall by Villi1
+[19:23:30] [User Authenticator #12/INFO]: UUID of player Villi1 is 688ddda8-aaf6-324d-9f60-f06f8be6d090
+[19:23:30] [Server thread/INFO]: Villi1 lost connection: You logged in from another location
+[19:23:30] [Server thread/INFO]: Villi1 left the game
+[19:23:31] [Server thread/INFO]: Villi1 joined the game
+[19:23:31] [Server thread/INFO]: Villi1[/127.151.163.239:54343] logged in with entity id 172940 at ([world_nether]-490.4346235660692, 245.20000004768372, 28.04617152467564)
+[19:23:39] [Server thread/INFO]: Villi issued server command: /ban Villi1
+[19:23:39] [Server thread/INFO]: [Villi: Banned Villi1: Banned by an operator.]
+[19:23:39] [Server thread/INFO]: Villi1 lost connection: You are banned from this server
+[19:23:39] [Server thread/INFO]: Villi1 left the game
+[19:23:40] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/12659, uuid='1efae3a3-e742-4d08-87eb-7f048d2e891b', l='ServerLevel[world_nether]', x=-491.33, y=245.00, z=37.39, cpos=[-31, 2], tl=182241, v=true] died: peque blew up
+[19:23:40] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/12660, uuid='97446c06-611e-4fac-bc52-ce3ef987f75e', l='ServerLevel[world_nether]', x=-493.53, y=244.89, z=39.97, cpos=[-31, 2], tl=182243, v=true] died: peque blew up
+[19:23:40] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/12658, uuid='92690f6e-6fe4-4acb-abcf-1ab305e641b6', l='ServerLevel[world_nether]', x=-495.40, y=242.11, z=43.74, cpos=[-31, 2], tl=182253, v=true] died: peque blew up
+[19:23:45] [User Authenticator #12/INFO]: UUID of player Villi1 is 688ddda8-aaf6-324d-9f60-f06f8be6d090
+[19:23:45] [Server thread/INFO]: Disconnecting Villi1 (/127.151.163.239:45097): You are banned from this server.
+Reason: Banned by an operator.
+[19:23:45] [Server thread/INFO]: Villi1 (/127.151.163.239:45097) lost connection: You are banned from this server.
+Reason: Banned by an operator.
