@@ -122,3 +122,7 @@
 [13:58:23] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/36094, uuid='c29b3644-a083-4310-83a9-26f437ac5619', l='ServerLevel[world_nether]', x=-396.55, y=128.00, z=-2.58, cpos=[-25, -1], tl=15934, v=true] died: peque fell from a high place
 [13:58:24] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/36419, uuid='1561f5a9-fa0b-4147-a513-a2109df593e5', l='ServerLevel[world_nether]', x=-394.53, y=128.00, z=-0.29, cpos=[-25, -1], tl=15268, v=true] died: peque fell from a high place
 [13:58:26] [Server thread/INFO]: Named entity ZombifiedPiglin['peque'/36417, uuid='bf786eba-5c77-4271-bd4b-1e6f2a2e2525', l='ServerLevel[world_nether]', x=-392.56, y=128.00, z=1.44, cpos=[-25, 0], tl=15324, v=true] died: peque fell from a high place
+[14:10:30] [Server thread/WARN]: Pikachu1572 moved wrongly!
+[14:15:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Villi> -566 -19
+[14:20:30] [Server thread/INFO]: Villi fell from a high place
+[14:24:54] [Server thread/WARN]: Villi moved wrongly!
