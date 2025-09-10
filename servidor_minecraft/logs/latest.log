@@ -125,3 +125,10 @@
 [16:59:33] [Server thread/INFO]: Villager Villager['Villager'/19389, uuid='7dd023f4-7908-4eaf-8776-992c1b16902d', l='ServerLevel[world]', x=206.30, y=90.00, z=378.97, cpos=[12, 23], tl=346, v=true] died, message: 'Villager was slain by Ruben17'
 [16:59:34] [Server thread/INFO]: Villager Villager['Villager'/19573, uuid='5924acbc-06a8-424e-ab66-840b64db4a3f', l='ServerLevel[world]', x=206.46, y=90.00, z=378.30, cpos=[12, 23], tl=215, v=true] died, message: 'Villager was slain by Ruben17'
 [16:59:34] [Server thread/INFO]: Villager Villager['Villager'/19537, uuid='7b77cf48-a969-4a5d-bf73-c1c89c94570c', l='ServerLevel[world]', x=206.55, y=90.00, z=379.33, cpos=[12, 23], tl=269, v=true] died, message: 'Villager was slain by Ruben17'
+[16:59:46] [Server thread/INFO]: Villager Villager['Villager'/19115, uuid='447c0879-d5f2-41aa-b2e7-e072feee2bc8', l='ServerLevel[world_nether]', x=22.35, y=129.00, z=50.38, cpos=[1, 3], tl=983, v=true] died, message: 'Villager was slain by Ruben17'
+[17:05:27] [Server thread/WARN]: Spruce Boat (vehicle of Ruben17) moved wrongly! 0.2760668610613024
+[17:05:27] [Server thread/WARN]: Spruce Boat (vehicle of Ruben17) moved wrongly! 0.29335844936181843
+[17:08:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Villi> -2308 96 218
+[17:08:44] [Async Chat Thread - #8/INFO]: [Not Secure] <Villi> hay la estoy haciendo
+[17:08:47] [Async Chat Thread - #9/INFO]: [Not Secure] <Villi> la granja de 10k
+[17:09:08] [Server thread/INFO]: Villager Villager['Villager'/28713, uuid='d3d0d3bf-3b37-43cc-a56a-a10d91488a19', l='ServerLevel[world]', x=-2437.43, y=69.19, z=190.90, cpos=[-153, 11], tl=161, v=true] died, message: 'Villager suffocated in a wall'
