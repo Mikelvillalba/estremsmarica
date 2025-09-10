@@ -167,3 +167,9 @@
 [15:08:14] [Server thread/INFO]: Pikachu1572[/127.142.165.218:58999] logged in with entity id 83242 at ([world_nether]-518.4839417276448, 244.1875, 14.521882852487092)
 [15:20:41] [Server thread/INFO]: Villi lost connection: Disconnected
 [15:20:41] [Server thread/INFO]: Villi left the game
+[15:24:07] [Server thread/INFO]: Villager Villager['Cleric'/89405, uuid='9d647d46-2e2e-4aa0-bce3-4e1bcbb07ed7', l='ServerLevel[world]', x=-2439.30, y=62.00, z=161.50, cpos=[-153, 10], tl=3637, v=true] died, message: 'Cleric was slain by Zombie'
+[15:25:24] [Server thread/INFO]: estrems fell from a high place
+[15:25:24] [Server thread/INFO]: Ruben17 fell from a high place
+[15:31:50] [User Authenticator #12/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[15:31:51] [Server thread/INFO]: Villi joined the game
+[15:31:51] [Server thread/INFO]: Villi[/127.240.193.194:50005] logged in with entity id 96064 at ([world_nether]-495.66169512104153, 255.0, 29.820581893132584)
