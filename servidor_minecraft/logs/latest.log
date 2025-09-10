@@ -215,3 +215,20 @@
 [18:53:46] [Async Chat Thread - #32/INFO]: [Not Secure] <Pikachu1572> los aqldeanos necesitan trabajo
 [18:54:23] [Server thread/INFO]: Villi lost connection: Disconnected
 [18:54:23] [Server thread/INFO]: Villi left the game
+[18:55:04] [Server thread/INFO]: Villager Villager['Villager'/37882, uuid='6b9082b3-22af-485f-9bc2-c92fce94f48a', l='ServerLevel[world]', x=-2433.51, y=65.57, z=190.50, cpos=[-153, 11], tl=115536, v=true] died, message: 'Villager suffocated in a wall'
+[18:56:00] [User Authenticator #10/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[18:56:00] [Server thread/INFO]: Villi joined the game
+[18:56:00] [Server thread/INFO]: Villi[/127.240.193.194:35879] logged in with entity id 146267 at ([world]-2458.15484763295, 63.0, 167.3300259758795)
+[18:56:02] [Async Chat Thread - #34/INFO]: [Not Secure] <Villi> -762,5 236
+[18:58:23] [Server thread/INFO]: Villi has completed the challenge [Hot Tourist Destinations]
+[18:59:39] [Server thread/INFO]: Villi lost connection: Disconnected
+[18:59:39] [Server thread/INFO]: Villi left the game
+[19:01:43] [Server thread/INFO]: Villager Villager['Villager'/152126, uuid='51a48714-71b3-4986-ab52-386b00d0c276', l='ServerLevel[world_nether]', x=-305.64, y=129.19, z=20.60, cpos=[-20, 1], tl=32, v=true] died, message: 'Villager suffocated in a wall'
+[19:03:16] [Server thread/INFO]: Villager Villager['Villager'/150456, uuid='f06c160b-5d9f-4a2f-9b89-69b0435ac7d0', l='ServerLevel[world]', x=-2433.64, y=65.70, z=190.50, cpos=[-153, 11], tl=4034, v=true] died, message: 'Villager suffocated in a wall'
+[19:09:27] [Server thread/INFO]: Ruben17 has made the advancement [Minecraft: Trial(s) Edition]
+[19:10:27] [User Authenticator #11/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[19:10:28] [Server thread/INFO]: estrems joined the game
+[19:10:28] [Server thread/INFO]: estrems[/127.248.184.190:47187] logged in with entity id 158856 at ([world]-2460.4754630348243, 64.0, 162.80752871217484)
+[19:12:13] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[19:12:13] [Server thread/INFO]: Pikachu1572 left the game
+[19:13:36] [Server thread/INFO]: Villager Villager['Librarian'/157668, uuid='8021cb10-d512-40b1-bb39-ee64acd732d1', l='ServerLevel[world]', x=-2439.30, y=63.00, z=175.30, cpos=[-153, 10], tl=5068, v=true] died, message: 'Librarian was slain by Trader Llama'
