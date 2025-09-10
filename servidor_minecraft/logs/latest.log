@@ -160,3 +160,8 @@
 [15:00:35] [User Authenticator #10/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
 [15:00:35] [Server thread/INFO]: Villi joined the game
 [15:00:35] [Server thread/INFO]: Villi[/127.240.193.194:38325] logged in with entity id 81000 at ([world_nether]-532.7579332379398, 245.0, 17.005484557411226)
+[15:08:12] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[15:08:12] [Server thread/INFO]: Pikachu1572 left the game
+[15:08:14] [User Authenticator #11/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[15:08:14] [Server thread/INFO]: Pikachu1572 joined the game
+[15:08:14] [Server thread/INFO]: Pikachu1572[/127.142.165.218:58999] logged in with entity id 83242 at ([world_nether]-518.4839417276448, 244.1875, 14.521882852487092)
