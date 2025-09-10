@@ -102,3 +102,14 @@
 [13:24:38] [Server thread/INFO]: Villager Villager['Librarian'/17164, uuid='50c8fd4a-ac3b-4f1a-985a-235d56307a2b', l='ServerLevel[world]', x=-2439.30, y=62.00, z=157.50, cpos=[-153, 9], tl=16592, v=true] died, message: 'Librarian was slain by Zombie'
 [13:25:36] [Async Chat Thread - #1/INFO]: [Not Secure] <Villi> dame materiales
 [13:25:40] [Async Chat Thread - #1/INFO]: [Not Secure] <Villi> y voy haciendo
+[13:29:11] [Server thread/WARN]: Villi moved wrongly!
+[13:30:26] [Server thread/INFO]: estrems lost connection: Disconnected
+[13:30:26] [Server thread/INFO]: estrems left the game
+[13:31:59] [User Authenticator #5/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[13:31:59] [Server thread/INFO]: estrems joined the game
+[13:31:59] [Server thread/INFO]: estrems[/127.248.184.190:44995] logged in with entity id 28057 at ([world_nether]-402.5471036547307, 128.0, 15.391926829245769)
+[13:34:57] [Server thread/INFO]: estrems lost connection: Disconnected
+[13:34:57] [Server thread/INFO]: estrems left the game
+[13:36:18] [User Authenticator #6/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[13:36:19] [Server thread/INFO]: estrems joined the game
+[13:36:19] [Server thread/INFO]: estrems[/127.248.184.190:48631] logged in with entity id 30612 at ([world_nether]-422.95239877663766, 245.0, 42.35385220915479)
