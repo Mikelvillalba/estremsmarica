@@ -82,3 +82,16 @@
 [12:55:55] [Server thread/INFO]: Villi[/127.240.193.194:37177] logged in with entity id 3400 at ([world_nether]-270.68662634794345, 233.0, 31.264387570810104)
 [12:57:03] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
 [12:57:03] [Server thread/INFO]: rotceh9889 left the game
+[12:58:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 6aca43cd-cc96-423f-acad-ac0820d2bfdd, mapped to Cow['Cow'/5091, uuid='6aca43cd-cc96-423f-acad-ac0820d2bfdd', l='ServerLevel[world]', x=-2346.21, y=66.00, z=-173.14, cpos=[-147, -11], tl=0, v=true], can't add Cow['Cow'/5120, uuid='6aca43cd-cc96-423f-acad-ac0820d2bfdd', l='ServerLevel[world]', x=-2349.52, y=65.00, z=-176.45, cpos=[-147, -12], tl=0, v=false]
+[12:58:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e7376858-16d2-48ed-a583-9e65664ec8e9, mapped to Cow['Cow'/5090, uuid='e7376858-16d2-48ed-a583-9e65664ec8e9', l='ServerLevel[world]', x=-2350.20, y=66.00, z=-170.75, cpos=[-147, -11], tl=0, v=true], can't add Cow['Cow'/5121, uuid='e7376858-16d2-48ed-a583-9e65664ec8e9', l='ServerLevel[world]', x=-2343.78, y=66.00, z=-178.17, cpos=[-147, -12], tl=0, v=false]
+[12:58:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 26fc195a-08ce-4d46-a650-f5a570cd0936, mapped to Chicken['Chicken'/5094, uuid='26fc195a-08ce-4d46-a650-f5a570cd0936', l='ServerLevel[world]', x=-2351.41, y=65.00, z=-175.09, cpos=[-147, -11], tl=0, v=true], can't add Chicken['Chicken'/5122, uuid='26fc195a-08ce-4d46-a650-f5a570cd0936', l='ServerLevel[world]', x=-2357.17, y=66.00, z=-180.13, cpos=[-148, -12], tl=0, v=false]
+[13:00:08] [User Authenticator #2/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[13:00:09] [Server thread/INFO]: rotceh9889 joined the game
+[13:00:09] [Server thread/INFO]: rotceh9889[/127.242.85.59:60397] logged in with entity id 6616 at ([world_the_end]-287.69999998807907, 1.0, -9.699999988079071)
+[13:01:11] [Server thread/INFO]: Villi lost connection: Disconnected
+[13:01:11] [Server thread/INFO]: Villi left the game
+[13:01:43] [User Authenticator #3/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[13:01:45] [Server thread/INFO]: Pikachu1572 joined the game
+[13:01:45] [Server thread/INFO]: Pikachu1572[/127.142.165.218:40441] logged in with entity id 8237 at ([world_nether]-456.50588073980526, 128.0, -10.226452856898437)
+[13:06:30] [Async Chat Thread - #0/INFO]: [Not Secure] <estrems> -324 77 26
+[13:06:43] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 973112b0-25fa-45d1-a0ed-c3971c457384, mapped to EnderMan['Enderman'/11821, uuid='973112b0-25fa-45d1-a0ed-c3971c457384', l='ServerLevel[world_nether]', x=-391.24, y=103.00, z=362.23, cpos=[-25, 22], tl=0, v=true], can't add EnderMan['Enderman'/11828, uuid='973112b0-25fa-45d1-a0ed-c3971c457384', l='ServerLevel[world_nether]', x=-383.49, y=103.00, z=368.46, cpos=[-24, 23], tl=0, v=false]
